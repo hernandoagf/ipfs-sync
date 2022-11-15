@@ -11,16 +11,19 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: Pin files in the cluster
-        run: ipfs-cluster-ctl add -r files > cid-filename.md
+        run: ipfs-cluster-ctl add -r files > cid-filename.txt
         
-      - name: Log pinning step results
-        run: cat cid-filename.md
+      - name: Format result file and log pinning step results
+        run: |
+          sed -i 's/\b/CID filename\n/' cid-filename.txt
+          sed -i 's/added //g' cid-filename.txt
+          cat cid-filename.txt
         
       - name: Commit cid-filename mapping file
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add cid-filename.md
+          git add cid-filename.txt
           git commit -m 'Sync CID-filename mapping file'
           
       - name: Push cid-filename mapping file
