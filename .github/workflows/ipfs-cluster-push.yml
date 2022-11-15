@@ -8,14 +8,7 @@ jobs:
   IpfsClusterPush:
     runs-on: self-hosted
     steps:
-      - name: Log before checkout
-        run: |
-          pwd
-          ls
-    
       - uses: actions/checkout@v3
       
-      - name: Log current directory
-        run: |
-          pwd
-          ls
+      - name: Pin files in the cluster
+        run: ipfs-cluster-ctl add -r files
