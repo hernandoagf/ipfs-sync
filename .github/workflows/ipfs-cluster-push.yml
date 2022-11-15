@@ -11,4 +11,7 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: Pin files in the cluster
-        run: ipfs-cluster-ctl add -r files
+        run: ipfs-cluster-ctl add > cid-filename.md
+        
+      - name: Log pinning step results
+        run: cat cid.filename.md
