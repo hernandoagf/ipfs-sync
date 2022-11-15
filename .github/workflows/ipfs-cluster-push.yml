@@ -15,7 +15,6 @@ jobs:
         
       - name: Format result file and log pinning step results
         run: |
-          sed -i 's/\b/CID filename\n' cid-filename.txt
           sed -i 's/added //g' cid-filename.txt
           cat cid-filename.txt
         
