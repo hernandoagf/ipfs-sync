@@ -1,17 +1,17 @@
-name: IPFS Cluster Push
+name: IPFS Push
 on:
   schedule:
     - cron: 0 0 * * *
   workflow_dispatch:
 
 jobs:
-  IpfsClusterPush:
+  IpfsPush:
     runs-on: self-hosted
     steps:
       - uses: actions/checkout@v3
       
-      - name: Pin files in the cluster
-        run: ipfs-cluster-ctl add -r files > cid-filename.txt
+      - name: Pin files on IPFS
+        run: ipfs add -r files > cid-filename.txt
         
       - name: Format result file and log pinning step results
         run: |
