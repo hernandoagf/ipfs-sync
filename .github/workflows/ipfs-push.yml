@@ -15,8 +15,8 @@ jobs:
         
       - name: Format result file and log pinning step results
         run: |
-          sed -i '2,$s/added //g' cid-filename.txt
-          sed -i -e "1sLast sync: $(date)\" cid-filename.txt
+          sed -i 's/added //g' cid-filename.txt
+          sed -i -e "1iLast sync: $(date)\" cid-filename.txt
           cat cid-filename.txt
         
       - name: Commit cid-filename mapping file
