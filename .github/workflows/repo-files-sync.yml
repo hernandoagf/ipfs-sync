@@ -21,5 +21,6 @@ jobs:
             if [ -d "${urlArray[3]}" ]; then
               git clone $repoUrl
             fi
+            ls
             cd ..;
           done
