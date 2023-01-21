@@ -29,5 +29,5 @@ jobs:
             filePathArraySliced=("${filePathArray[@]:3}")
             function join { local IFS="$1"; shift; echo "$*"; }
             filePath=$(join / ${filePathArraySliced[@]})
-            echo $filePath;
+            cp -r $filePath ../files;
           done
