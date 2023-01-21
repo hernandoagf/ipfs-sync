@@ -22,5 +22,7 @@ jobs:
               git clone $repoUrl
             fi
             ls
-            cd ..;
+            cd ..
+            ls
+            echo "Hello";
           done
