@@ -7,10 +7,15 @@ on:
 jobs:
   RepoFilesSync:
     runs-on: self-hosted
+    strategy:
+      matrix:
+        route: |
+          readarray -t routeArray < files-to-sync.txt
+          routeArray
     steps:
       - uses: actions/checkout@v3
       
       - name: Read file paths
-        run: readarray -t a < files-to-sync.txt
+        run: echo ${{ matrix.route }}
         
       
