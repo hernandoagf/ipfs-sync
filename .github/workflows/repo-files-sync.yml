@@ -5,26 +5,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  GenerateRoutesArray:
-    runs-on: self-hosted
-    outputs:
-      routesArray: ${{ steps.array.outputs.value }}
-    steps:
-      - id: array
-        run: |
-          readarray -t routeArray < files-to-sync.txt
-          echo $routeArray
-
   RepoFilesSync:
-    needs: [ GenerateRoutesArray ]
     runs-on: self-hosted
-    strategy:
-      matrix:
-        route: ${{ needs.GenerateRoutesArray.outputs.routesArray }}
     steps:
       - uses: actions/checkout@v3
       
       - name: Read file paths
-        run: echo ${{ matrix.route }}
+        run: |
+          readarray -t routeArray < files-to-sync.txt
+          for route in "${routeArray[@]}"; do echo $route; done
         
       
