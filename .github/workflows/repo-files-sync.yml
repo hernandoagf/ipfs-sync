@@ -26,7 +26,7 @@ jobs:
           cd external-repos
           for route in "${routeArray[@]}";
             do filePathArray=(`echo $route | tr '/' ' '`)
-            echo "- Copying $route..."
+            echo "- Copying $route ..."
             filePathArraySliced=("${filePathArray[@]:3}")
             function join { local IFS="$1"; shift; echo "$*"; }
             filePath=$(join / ${filePathArraySliced[@]:3})
@@ -39,5 +39,15 @@ jobs:
             decodedFolderPath=`echo $folderPath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`
             mkdir -p "../../files/${decodedFolderPath}" && cp -r "$decodedFilePath" $_
             cd ..
-            echo "  Successfully copied.";
+            echo "Successfully copied.";
           done
+
+      - name: Commit files synced
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add files/
+          git commit -m 'Sync files from external repos'
+          
+      - name: Push files synced
+        uses: ad-m/github-push-action@master
