@@ -1,8 +1,11 @@
 name: IPFS Push
+
 on:
-  schedule:
-    - cron: 15 0 * * *
   workflow_dispatch:
+  workflow_run:
+    workflows: [Repo files sync]
+    types:
+      - completed
 
 jobs:
   IpfsPush:
