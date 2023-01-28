@@ -28,10 +28,10 @@ jobs:
             do filePathArray=(`echo $route | tr '/' ' '`)
             filePathArraySliced=("${filePathArray[@]:3}")
             function join { local IFS="$1"; shift; echo "$*"; }
-            filePath=$(join / ${filePathArraySliced[@]})
+            filePath=$(join / ${filePathArraySliced[@]:3})
             cd ${filePathArraySliced[0]}
             git switch ${filePathArraySliced[2]}
-            decodedFilePath=`echo '${filePath[@]:3}' | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`
+            decodedFilePath=`echo $filePath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`
             folderPathArraySliced=("${filePathArray[@]:3:$((${#filePathArray[@]} - 3 - 1))}")
             folderPath=$(join / ${folderPathArraySliced[@]})
             decodedFolderPath=`echo $folderPath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`
