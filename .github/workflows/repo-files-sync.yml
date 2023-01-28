@@ -38,5 +38,6 @@ jobs:
             echo $folderPath
             decodedFolderPath=(`echo $folderPath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`)
             echo $decodedFolderPath
+            echo $decodedFilePath
             mkdir -p "..files/${decodedFolderPath}" && cp $decodedFilePath $_;
           done
