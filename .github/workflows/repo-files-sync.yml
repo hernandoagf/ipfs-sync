@@ -34,7 +34,9 @@ jobs:
             cd ..
             decodedFilePath=(`echo $filePath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`)
             echo ${filePathArray[@]}
-            folderPathArraySliced=("${filePathArray[@]:3: length-1}")
+            echo ${#filePathArray[@]}
+            echo ${#filePathArray[@]-1}
+            folderPathArraySliced=("${filePathArray[@]:3:#filePathArray[@]-1}")
             echo ${folderPathArraySliced[@]}
             folderPath=$(join / ${folderPathArraySliced[@]})
             decodedFolderPath=(`echo $folderPath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`)
