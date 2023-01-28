@@ -29,5 +29,12 @@ jobs:
             filePathArraySliced=("${filePathArray[@]:3}")
             function join { local IFS="$1"; shift; echo "$*"; }
             filePath=$(join / ${filePathArraySliced[@]})
-            cp -r $filePath ../files;
+            cd ${filePathArraySliced[0]}
+            git switch ${filePathArraySliced[2]}
+            cd ..
+            decodedFilePath=(`echo $filePath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`)
+            folderPathArraySliced=("${filePathArray[@]:0: -1}")
+            folderPath=$(join / ${folderPathArraySliced[@]})
+            decodedFolderPath=(`echo $folderPath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`)
+            mkdir -p "..files/${decodedFolderPath}" && cp $decodedFilePath $_;
           done
