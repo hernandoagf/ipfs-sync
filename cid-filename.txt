@@ -1,5 +1,16 @@
-Last sync: Sat Jan 28 01:22:54 UTC 2023
+Last sync: Sat Jan 28 18:39:20 UTC 2023
 
 Qmb7VGA1B5dna2DSh85YcLgcWAVPMmencvvwR4o668tu2e files/alt-file.txt
+QmVNqUuJQHCyTk3ch3VBjdjTQVuXy1VaqoG7pJLXGHk7bc files/community/master/governance/polls/meta/categories.json
+QmNSXZvaGd21oknoqvpAtHDojpPqdDUs7CcvAR7FMuNZEe files/community/master/governance/polls/meta/poll-tags.json
+QmQWrKj7z5GWho5y5MRKfySCdVcxb81YNxCA4PpdQMTnAQ files/community/master/governance/polls/meta/retroactive-poll-categorization.json
+QmUrbG4DpMRNAPXrkUViEUnzWeUd9XqKZvzDUaTjMKmUiS files/community/master/governance/polls/meta/tags.json
+QmZ7SdXzSnMspMf82YgfjKnd6yFJWN5megLfLiNwC4ZWJB files/community/master/governance/votes/Community Executive vote - December 20, 2020.md
 Qmd4qeA14fg6gSpYVKH95qZS7VumUmKppQrw65Uwbx1cmq files/github-file.txt
-QmctJprGCMfSW2UQDJaEur1ZDu1uiPGJndCpet4Rzfr3W5 files
+QmcHko9ZP7edeJfqLvqwTqagbLsrHxRMKTi7t6BdV2orW7 files/community/master/governance/polls/meta
+QmdQZjiMrz1RMb23dTqb2q3rpwZXXJWCHde9aAwvnZSepF files/community/master/governance/polls
+QmdfRu3EGB9c3UuZ8jwCEStSeXNMrDTAPqfjE8aAox3qAU files/community/master/governance/votes
+QmXSjdLAFW4zquqeHVxc55LdKTvvq5aR3i7mDoAz9JhuB6 files/community/master/governance
+QmVARtu3EiVuhFhhSfLBsHuwBVXmjfG85shidxkvYq7aEY files/community/master
+QmVXAcuXaks4vnGYqDrEbg11zMbFrJTm9QhaVTShe9ktEB files/community
+QmcFDaLgZPhWaSKU14sQ67SzY4uu2eDWKcWbshBa8XGSHJ files
