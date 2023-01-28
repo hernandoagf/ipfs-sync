@@ -22,10 +22,11 @@ jobs:
             [ ! -d "${urlArray[3]}" ] && git clone $repoUrl || echo "Repo ${urlArray[3]} already cloned, skipping..."
             cd ..;
           done
-          echo "Copying files that will be synced into the files folder..."
+          echo "Copying files into the files folder..."
           cd external-repos
           for route in "${routeArray[@]}";
             do filePathArray=(`echo $route | tr '/' ' '`)
+            echo "- Copying $route..."
             filePathArraySliced=("${filePathArray[@]:3}")
             function join { local IFS="$1"; shift; echo "$*"; }
             filePath=$(join / ${filePathArraySliced[@]:3})
@@ -38,5 +39,5 @@ jobs:
             decodedFolderPath=`echo $folderPath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`
             mkdir -p "../../files/${decodedFolderPath}" && cp -r "$decodedFilePath" $_
             cd ..
-            ls ../files/community/master/governance;
+            echo "  Successfully copied.";
           done
