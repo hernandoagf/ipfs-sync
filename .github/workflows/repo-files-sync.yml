@@ -33,7 +33,9 @@ jobs:
             git switch ${filePathArraySliced[2]}
             cd ..
             decodedFilePath=(`echo $filePath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`)
-            folderPathArraySliced=("${filePathArray[@]:0: -1}")
+            echo $filePathArraySliced
+            folderPathArraySliced=("${filePathArraySliced[@]:0: length - 1}")
+            echo $folderPathArray
             folderPath=$(join / ${folderPathArraySliced[@]})
             decodedFolderPath=(`echo $folderPath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`)
             mkdir -p "..files/${decodedFolderPath}" && cp $decodedFilePath $_;
