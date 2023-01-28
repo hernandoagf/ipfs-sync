@@ -36,6 +36,8 @@ jobs:
             echo ${filePathArray[@]}
             echo ${#filePathArray[@]}
             echo ${#filePathArray[@]-1}
+            echo "Hello"
+            echo "Here"
             folderPathArraySliced=("${filePathArray[@]:3:#filePathArray[@]-1}")
             echo ${folderPathArraySliced[@]}
             folderPath=$(join / ${folderPathArraySliced[@]})
