@@ -38,7 +38,7 @@ jobs:
             echo $((${#filePathArray[@]} - 1))
             echo "Hello"
             echo "Here"
-            folderPathArraySliced=("${filePathArray[@]:3:$((${#filePathArray[@]} - 2))}")
+            folderPathArraySliced=("${filePathArray[@]:3:$((${#filePathArray[@]} - 3 - 1))}")
             echo ${folderPathArraySliced[@]}
             folderPath=$(join / ${folderPathArraySliced[@]})
             decodedFolderPath=(`echo $folderPath | perl -MURI::Escape -pe 's/.*/uri_unescape($&)/e'`)
