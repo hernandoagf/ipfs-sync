@@ -13,8 +13,6 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v3
-        with:
-          submodules: true
       
       - name: Pin files on IPFS
         run: ipfs add -r files > cid-filename.txt
