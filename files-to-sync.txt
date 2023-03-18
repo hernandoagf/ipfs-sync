@@ -1,3 +1,5 @@
-https://github.com/makerdao/community/blob/master/governance/votes/Community%20Executive%20vote%20-%20December%2020%2C%202020.md
-https://github.com/makerdao/community/tree/master/governance/polls/meta
+https://github.com/makerdao/community/tree/master/governance/delegates
+https://github.com/makerdao/community/tree/master/governance/polls
+https://github.com/makerdao/community/tree/master/governance/votes
 https://github.com/makerdao/protocol-metadata/blob/main/parameter-info.yaml
+https://github.com/makerdao/protocol-metadata/blob/main/collateral-info.yaml
