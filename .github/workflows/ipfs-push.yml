@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Pin files on IPFS
+      - name: Pin files on local IPFS peer
         run: ipfs add -r files > cid-filename.txt
         
       - name: Format result file and log pinning step results
@@ -22,6 +22,14 @@ jobs:
           sed -i 's/added //g' cid-filename.txt
           sed -i "1iLast sync: $(date)\n" cid-filename.txt
           cat cid-filename.txt
+          
+      - name: Pin files on Infura IPFS service
+        uses: aquiladev/ipfs-action@v0.3.1
+        with:
+          path: ./files
+          service: infura
+          infuraProjectId: ${{ secrets.INFURA_PROJECT_ID }}
+          infuraProjectSecret: ${{ secrets.INFURA_PROJECT_SECRET }}
         
       - name: Commit cid-filename mapping file
         run: |
