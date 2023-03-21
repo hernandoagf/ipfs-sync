@@ -1,6 +1,5 @@
-Last sync: Sat Mar 18 19:50:44 UTC 2023
+Last sync: Tue Mar 21 01:20:38 UTC 2023
 
-Qmb7VGA1B5dna2DSh85YcLgcWAVPMmencvvwR4o668tu2e files/alt-file.txt
 QmPSy2TD8rCkFVb6mxDg62j444iATnxjXf51ojJPvHheat files/community/master/governance/delegates/0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3/avatar.jpg
 QmaRXJAqSczKr6XfZZNC6MrYAtgi1YmT1xgTpdJJNdcAsr files/community/master/governance/delegates/0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3/metrics.md
 QmZLeD9z4ewWuh7NuJyHzQWPZ9Q3uouaS7f6dan1HnCSva files/community/master/governance/delegates/0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3/profile.md
@@ -702,6 +701,7 @@ QmYx9e3kiUouRUX7PTsb2Cff1LGEe871r9poFqPsdXPqWf files/community/master/governance
 QmVXj9cWLo9bCHysL4e3epCcEBkGTUNz9S7QxiQvkoJtck files/community/master/governance/polls/PPG - Open Market Committee Proposal - November 28, 2022.md
 QmbLyNUd9mgdxPAS6EFqX27NZDwgoFY82WyGfSF3Sk6PvX files/community/master/governance/polls/PPG - Open Market Committee Proposal - October 3, 2022.md
 QmahDuNxNMTQpXMs1nNhvCHck9eSYjnHR48FtgiUrRYGgr files/community/master/governance/polls/PPG - Open Market Committee Proposal - October 31, 2022.md
+QmQ1fYm36VoJSPF2mnSSEjhPbpwj8yTehN4bMrZTeGbZQp files/community/master/governance/polls/PSM Parameter Normalization - March 20, 2023.md
 QmdmeUjvoWcW6ZeBqLNHmPmFZrds6imiLbm8ZP6BuHyvX9 files/community/master/governance/polls/PaperImperium Supplemental Compensation - October 11, 2021.md
 QmVG38FKUkP6M4Fg66nq7Xp4671cvpkUHKoheJf5LioFUE files/community/master/governance/polls/Parameter Changes Proposal - MakerDAO Open Market Committee - August 2, 2021.md
 QmW3vFsANnNzxfATNvkjfydYeVCfaSZLHvA7RimnE5aNdt files/community/master/governance/polls/Parameter Changes Proposal - PPG-OMC-001 - April 12, 2021.md
@@ -1004,6 +1004,7 @@ QmcCs8SSA8cUTYzTXCb4zCFiG96xpzFiBqmJ54rkDDdkJi files/community/master/governance
 QmdaG8moV1kGXh5My6iYhTpLHwSPKBkTiA4fXmdUH8mT1N files/community/master/governance/polls/Short Ratification Poll for MIP55c3-SP8 - September 5, 2022.md
 QmXZPYAuNaWvBv4wisp4bY65K3tDvc3EZAcHftWcqsP34E files/community/master/governance/polls/Short Ratification Poll for MIP62 Amendments (MIP4c3-SP2) - March 28, 2022.md
 Qmad6Lo8tVNyCaUsBjYuSfJq5o7bi6are7bt8Sm7zcE5W8 files/community/master/governance/polls/Short Ratification Poll for MIP64 Amendments (MIP4c3-SP3) - April 18, 2022.md
+QmbrGz9xoHGE4nwHoytukEd3L2fwCMVEqbQcC3rgKFbvzr files/community/master/governance/polls/Short Ratification Poll for RWA Foundation Broker Onboarding & Expensing for Professional Services (MIP58c4-SP1) - March 20, 2023.md
 QmZxskJSr9vtkJhzsJThy64jSBwo7JQk87FRRoR9RAN4c5 files/community/master/governance/polls/Short Ratification Poll for Requesting Protocol DAI Transfer to Fund Endgame Information Portal (MIP14c2-SP3) - January 30, 2023.md
 Qmb9brx3AytSqociSv2N9D6uyeshHPHkhcbdLwiFR3v8qq files/community/master/governance/polls/Short Ratification Poll for SPF ETHAmsterdam Event (MIP55c3-SP3) - March 28, 2022.md
 QmavSJsGs57atXD6mZNEvBZrs3fF7CaaVwRymgjsP5MQyD files/community/master/governance/polls/Short Ratification Poll for Vault Setting Amendment Subproposal (MIP92c5-SP1) - March 13, 2023.md
@@ -1056,7 +1057,7 @@ QmUM7GdjiBc7n8tH3DhoJMp7653NnfvL4X3GPV6NXMeCpa files/community/master/governance
 QmXKPQAWZrM6y443GtWgeKjM13qn8PZWN9RiMKz5N7jB46 files/community/master/governance/polls/assets/DeFi Public Feed Proposal.png
 Qme9Wreo89JYNwoEv1n3Kihuh2p6MtC95A7wMChzptuBEj files/community/master/governance/polls/assets/Oracles Incentives Restructuring.jpeg
 QmVNqUuJQHCyTk3ch3VBjdjTQVuXy1VaqoG7pJLXGHk7bc files/community/master/governance/polls/meta/categories.json
-QmR2K26ggvWFhhrZMetTQym6UDpoVFEGVCzHf84k8m3tZq files/community/master/governance/polls/meta/poll-tags.json
+QmS4y9Ceg7fBuSwwZauw7KwLRxp4H4wJsyoNj6XuJk4hit files/community/master/governance/polls/meta/poll-tags.json
 QmQWrKj7z5GWho5y5MRKfySCdVcxb81YNxCA4PpdQMTnAQ files/community/master/governance/polls/meta/retroactive-poll-categorization.json
 QmUrbG4DpMRNAPXrkUViEUnzWeUd9XqKZvzDUaTjMKmUiS files/community/master/governance/polls/meta/tags.json
 QmP4Jc35m9KQpF5nFxCCbUqJHmJrMEwtiFiXr3P8tXiDqB files/community/master/governance/polls/templates/Archived - Not Updated/Base Rate Adjustment - $date_MONTH_DD,_YYYY.md
@@ -1075,6 +1076,7 @@ QmVXZP8WD7YBH5o7yTq95m9dqbxLELQ7AdEMxgoR7kQSJ7 files/community/master/governance
 QmVdL8Rg9UWJvkd1iY8gEAKgWUMxHUtFDmh9UUFmu7fk39 files/community/master/governance/polls/templates/MIPs/Budget Ratification Poll - $mip_code - $date_MONTH_DD,_YYYY.md
 QmTsR3RTGuo7d83w8KyDpJB6VantwX5SEYTLirqE1QG3dG files/community/master/governance/polls/templates/MIPs/Ratification Poll - $mip_code - $date_MONTH_DD,_YYYY.md
 QmVtVLVhj89KispzQtBH9ViWosnTNYzRixJaXVEeB6ZG7y files/community/master/governance/polls/templates/MIPs/Ratification Poll - $mip_set - $date_MONTH_DD,_YYYY.md
+QmepJq82GQhpNpgwCunCNSThJu2Wr9f59vSLVcExmE9ATh files/community/master/governance/polls/templates/MIPs/Short Ratification Poll - $mip_code - $date_MONTH_DD,_YYYY.md
 QmSsyBHNYbtozm2KiccFguqMCsQ1mJKowRgmrRd96ah3sq files/community/master/governance/polls/templates/Misc/PPG - Open Market Committee Proposal - $date_MONTH_DD,_YYYY.md
 QmeugXuoDPJ1jxkdJwJdJXPZwFrByWZzgCqWwhsKCXYZRd files/community/master/governance/polls/templates/Oracles/MIP10c14-SP$sp_number - Appoint $appointed_entity as Oracle Light Feed.md
 QmUFRQJPGaBrJZpDpqkB2YctgRjEXmxhtfBhUqJsnz9kE2 files/community/master/governance/polls/templates/Oracles/MIP10c9-SP# - Whitelist $whitelisted_entity on $whitelisted_oracle Oracle -  $date_MONTH_DD,_YYYY.md
@@ -1254,7 +1256,6 @@ QmUUn2iManGFTFNRHCGpA2NtW7drzv2Qgtz6igvUQA5zsm files/community/master/governance
 QmU3GrnypyB8DsFHbhtZt9TCYbjrL5HMYRHxpXS5cBjjQe files/community/master/governance/votes/Executive vote - September 7, 2022.md
 QmYqX8GFQkZgpYBY41wzmGRxU19rp9pWxyrvjwR54CtUmE files/community/master/governance/votes/active/proposals.json
 QmNru9DfkLfA6vdFfy3GkCDEiZKXnGhyheyPpQUHx7kckM files/community/master/governance/votes/templates/Executive vote - $date_MONTH_DD,_YYYY.md
-Qmd4qeA14fg6gSpYVKH95qZS7VumUmKppQrw65Uwbx1cmq files/github-file.txt
 QmbZKST7j36uZ4zg8zRtoCWHYtubq3aH9KomrQHZF4dLxE files/protocol-metadata/main/collateral-info.yaml
 QmbAAWncgkaTDjyxD9gLV9m23C5dgTCTrf3d96vDLLRiEi files/protocol-metadata/main/parameter-info.yaml
 QmeY9rSytUWWhY7RJPnWYFk27Aj465FfYzGu8u4H3JsRBT files/community/master/governance/delegates/0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3
@@ -1293,23 +1294,23 @@ QmV7z7fu1YoK7Dz12jhXqvMnjdeDQr4YQVbtgubsYTidGz files/community/master/governance
 QmPLwtt2NLuGfmv6AGAbhgUnyQBEVbMy4DwatU48zGo5ec files/community/master/governance/delegates/template
 QmVbvsTYAKsqjibRE8gLh4T5Za7idk41TzmYpiyXJP4ryZ files/community/master/governance/delegates
 QmUJArSUASZZqooGDJfP7jE8PH53qb8pHib7sQDpChXoff files/community/master/governance/polls/assets
-QmfXjSp1CiKiPT8yEDugoZx5A1xKPmx6BtovtkJS8dtPNm files/community/master/governance/polls/meta
+QmZb9FQzc34dRU2UAUDfh8LuVCxgdpAKsBeRaSKizjytvT files/community/master/governance/polls/meta
 QmaTMYNj9MKUQ9gVttvGURPL8UZSjcPT5FoCUQ7ddtExfv files/community/master/governance/polls/templates/Archived - Not Updated
 QmPKnXKBVc6jaenTMeGvroLFYwYsM22nTfJiXocJSAB7rY files/community/master/governance/polls/templates/Collateral Offboarding
 QmS3ZNxtPRRwgt3Fazehyx8DW1nZ8ctN36hYQ356MzmyjH files/community/master/governance/polls/templates/Collateral Onboarding
 QmNPUiVyRs5enojHW2oqzmVzGV89Jrj35zvxDCVMbBEWDd files/community/master/governance/polls/templates/Generic
-QmaDBYkgDfUxCm2BHTXGsEf5C7VEZgDSLZGNkPE9rshiD2 files/community/master/governance/polls/templates/MIPs
+QmYwri6v9Rgq9GZWv6N3aS1478BCEn6MrUHNC8FoxcRBED files/community/master/governance/polls/templates/MIPs
 QmRytFnkyK9ocxkcZgm3kSvGaW4cEv38Bq3VUchdJPkchM files/community/master/governance/polls/templates/Misc
 QmdXbpJNfFFXtajhyzMf7Mza7bjwHJgfKibbCCm1ZVNFny files/community/master/governance/polls/templates/Oracles
 QmNWqTHvid4NG2JBaEhgAqcFXYQTwG538oDTQ3fLUGqwtK files/community/master/governance/polls/templates/Risk Parameters
-QmQV918QPVLLXh9BnTGggcpuzWjxBPEFB5MFZQf6bvwroE files/community/master/governance/polls/templates
-QmR1c8qWKqneSi8RYsS1EJJxgaM1GCtB9po9wQmVt7Pq5W files/community/master/governance/polls
+QmbxXkJ38zncmuFjmqYM7tnpJMe1bg6zHWK4KysULnNbUZ files/community/master/governance/polls/templates
+QmPN2WjM7gzYXrQAGUJMcAjaqzMhHxdT8qAaScv58A19da files/community/master/governance/polls
 QmP2GXrDNthUoM5KJDMcP975QaLmLHw9PKSf2E7CGuqTZp files/community/master/governance/votes/active
 QmVTdDoMFXvAjwqENEqMYtGxMxqF1bSffdn7W4JE4WguGf files/community/master/governance/votes/templates
 QmabrgvFZvsEse6otENLMa9xy3Fv7ocYWC1xTVBcG3nDRD files/community/master/governance/votes
-QmW6KCiiMXFG2QsqRCxnEgRcw78zMfMFq1c1asxXcGANGo files/community/master/governance
-QmbQePQsSS8oWrTJjR9SuAoow6kW8ZGXhVVJNSqbF1QhB5 files/community/master
-Qmde3RXvC654iF6zhqt49oZR4x6ozSSKh9xRNeQeW97uae files/community
+QmWuHGRypp8tj9ivBkJHU3NPYE9qksuWbxBLVPhmuTzSwg files/community/master/governance
+QmTEdSvc4tJGJGdMqiAytCqupRgrQ2iK17CwpAijxMAA9c files/community/master
+QmRnMXCpVRbFQDSjNUcRiMPYJG1nLTe9dFn6MVJuNJzb5T files/community
 QmcFPseUQXWmfMSF8emhuTACR9q2pApZ9rpK1RZL4y9Mdn files/protocol-metadata/main
 QmeepNdPr4oQevzgDbZaiHqb2KrxbnmavATL4gvMMXyUfA files/protocol-metadata
-QmZJNxUpUc23RFN6Q412oYprmay7UwdDcmkyFhNp4DNHHD files
+QmeSnBf2xbnWjbh8gyT65rxjnSVAgE2UG4ysD55mzqhPuS files
