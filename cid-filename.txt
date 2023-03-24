@@ -1,4 +1,4 @@
-Last sync: Thu Mar 23 01:20:49 UTC 2023
+Last sync: Fri Mar 24 01:20:56 UTC 2023
 
 QmPSy2TD8rCkFVb6mxDg62j444iATnxjXf51ojJPvHheat files/community/master/governance/delegates/0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3/avatar.jpg
 QmaRXJAqSczKr6XfZZNC6MrYAtgi1YmT1xgTpdJJNdcAsr files/community/master/governance/delegates/0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3/metrics.md
@@ -1069,10 +1069,13 @@ QmYPyvzLuVefSFJyiFLqcwQ4opq9Emm47GJW3nX7P9NFBk files/community/master/governance
 QmQxx1xm8kNcprtfU9SBetm1J36ivg8LQsCdsBr2WMzCYF files/community/master/governance/polls/templates/Collateral Onboarding/Proposal - Add $collateral as a PSM - $date_MONTH_DD,_YYYY.md
 QmQx8Q2ZmMvT1sdnZ8k4RvyNiRJDZNJFLBja7VBijYfsHQ files/community/master/governance/polls/templates/Collateral Onboarding/Proposal - Add $ilk as a new RWA Vault Type - $date_MONTH_DD,_YYYY.md
 QmRjEr6mkoGLRxJT891AMAVFptYECZP2NG44vpFsnkDAFd files/community/master/governance/polls/templates/Collateral Onboarding/Proposal - Add $ilk as a new Vault Type - $date_MONTH_DD,_YYYY.md
+QmSzX8U1GEhWtboPemjZnxZNnnQp9gBPRAgcEcbiHUTQ4U files/community/master/governance/polls/templates/Endgame Specific/Onboard $EcosystemActorName as an Incubating Ecosystem Actor - $date_MONTH_DD,_YYYY.md
+QmPKvRBMUDof5YvC1oZepyNfBSFXH5u2RXn6QJgYuZmU5b files/community/master/governance/polls/templates/Generic/$GenericApprovalWithMajority - $date_MONTH_DD,_YYYY.md
+QmWqMaRy7eModUyMj19fnmu1JPKeDfYh7ukqguwP2XSfah files/community/master/governance/polls/templates/Generic/$GenericApprovalWithoutMajority - $date_MONTH_DD,_YYYY.md
 QmTmBcLwuyWTEodQFTxCeEuBFb2eimNQYX9ghNbHMhFAx3 files/community/master/governance/polls/templates/Generic/$GenericBinary - $date_MONTH_DD,_YYYY.md
 QmWzmXMhjnz8D3pYXaYwGcy4uecLZJMo4ukzsAfHjU7obf files/community/master/governance/polls/templates/Generic/$GenericIRV - $date_MONTH_DD,_YYYY.md
 QmSDhm1n19TEPfYKq4wuQctyipyxbGcaacpjDTFg4qy9FC files/community/master/governance/polls/templates/Generic/$GenericPlurality - $date_MONTH_DD,_YYYY.md
-QmVXZP8WD7YBH5o7yTq95m9dqbxLELQ7AdEMxgoR7kQSJ7 files/community/master/governance/polls/templates/Generic/Vote Type Descriptors.md
+QmaApp1aa3CAgPJCaKp6d4saGZn3BbKXhzhF73YkRSLKUT files/community/master/governance/polls/templates/Generic/Vote Type Descriptors.md
 QmVdL8Rg9UWJvkd1iY8gEAKgWUMxHUtFDmh9UUFmu7fk39 files/community/master/governance/polls/templates/MIPs/Budget Ratification Poll - $mip_code - $date_MONTH_DD,_YYYY.md
 QmTsR3RTGuo7d83w8KyDpJB6VantwX5SEYTLirqE1QG3dG files/community/master/governance/polls/templates/MIPs/Ratification Poll - $mip_code - $date_MONTH_DD,_YYYY.md
 QmVtVLVhj89KispzQtBH9ViWosnTNYzRixJaXVEeB6ZG7y files/community/master/governance/polls/templates/MIPs/Ratification Poll - $mip_set - $date_MONTH_DD,_YYYY.md
@@ -1191,6 +1194,7 @@ QmPdw7AuTBjj3xm3v8Wo2F14857Q3jFybthSMpXzVhz1BS files/community/master/governance
 QmQLa5FRYkgRzFoWYUTnHidDdwtCT6j9zURCq8U7kQpntQ files/community/master/governance/votes/Executive vote - March 19, 2021.md
 QmbBjEnPQqCs7gnbCHb4Rfks8EBeTbf7oba5tF4BtxDXRj files/community/master/governance/votes/Executive vote - March 22, 2019.md
 Qmc8GQ66qtmr2JscwWjdLek94uS5LxY5L4qpTPboxiGsNf files/community/master/governance/votes/Executive vote - March 22, 2021.md
+QmYycE7bY4bDCjR2JaRpYZ5xDDFuiMUJYY2cov1rnYAvce files/community/master/governance/votes/Executive vote - March 24, 2023.md
 QmSRgq3KvncmfU1Zg1DdvZ38HpR4itJP4yzRp1fQRk8dER files/community/master/governance/votes/Executive vote - March 25, 2022.md
 QmeZ1WtNHHXSAvb4dVky758pd53qjWY99zWsbTq46R4ufm files/community/master/governance/votes/Executive vote - March 26, 2021.md
 QmbLH8ej4yBta7weeGKtkrpMmz8PHFvPDCVUfjr8VAK3Mi files/community/master/governance/votes/Executive vote - March 4, 2022.md
@@ -1298,19 +1302,20 @@ QmZb9FQzc34dRU2UAUDfh8LuVCxgdpAKsBeRaSKizjytvT files/community/master/governance
 QmaTMYNj9MKUQ9gVttvGURPL8UZSjcPT5FoCUQ7ddtExfv files/community/master/governance/polls/templates/Archived - Not Updated
 QmPKnXKBVc6jaenTMeGvroLFYwYsM22nTfJiXocJSAB7rY files/community/master/governance/polls/templates/Collateral Offboarding
 QmS3ZNxtPRRwgt3Fazehyx8DW1nZ8ctN36hYQ356MzmyjH files/community/master/governance/polls/templates/Collateral Onboarding
-QmNPUiVyRs5enojHW2oqzmVzGV89Jrj35zvxDCVMbBEWDd files/community/master/governance/polls/templates/Generic
+QmZf7j5e35XRc9cihufndesPCNBWnb4gp3op9pmTfXAzqj files/community/master/governance/polls/templates/Endgame Specific
+QmbxRfh1EKLNpccuViuPwCzpu79JsX88nE91mXnpLHmiHY files/community/master/governance/polls/templates/Generic
 QmYwri6v9Rgq9GZWv6N3aS1478BCEn6MrUHNC8FoxcRBED files/community/master/governance/polls/templates/MIPs
 QmRytFnkyK9ocxkcZgm3kSvGaW4cEv38Bq3VUchdJPkchM files/community/master/governance/polls/templates/Misc
 QmdXbpJNfFFXtajhyzMf7Mza7bjwHJgfKibbCCm1ZVNFny files/community/master/governance/polls/templates/Oracles
 QmNWqTHvid4NG2JBaEhgAqcFXYQTwG538oDTQ3fLUGqwtK files/community/master/governance/polls/templates/Risk Parameters
-QmbxXkJ38zncmuFjmqYM7tnpJMe1bg6zHWK4KysULnNbUZ files/community/master/governance/polls/templates
-QmPN2WjM7gzYXrQAGUJMcAjaqzMhHxdT8qAaScv58A19da files/community/master/governance/polls
+QmPe169c5sRnHf2XKMuM5evH3T7XRYzgt9SdJaBg1rFVNG files/community/master/governance/polls/templates
+QmWVrKYMjd38minDwg1AeCNgW9coXrfcHYV38NdxaZuwdt files/community/master/governance/polls
 QmP2GXrDNthUoM5KJDMcP975QaLmLHw9PKSf2E7CGuqTZp files/community/master/governance/votes/active
 QmVTdDoMFXvAjwqENEqMYtGxMxqF1bSffdn7W4JE4WguGf files/community/master/governance/votes/templates
-QmabrgvFZvsEse6otENLMa9xy3Fv7ocYWC1xTVBcG3nDRD files/community/master/governance/votes
-QmQxZWENftPtXtrztJiagKfvRvsS4LWKBojMGkskRA8Myv files/community/master/governance
-QmYrbp7sBKb4kMvg1Yc1hV8CJBWPsqACMiszX9VJNbwDoG files/community/master
-QmRordjLFxSPiV8HyEt4hiL9X1b5WBZc6X6hTZdvhXmQjQ files/community
+QmcKy74jsTyktZmJsQVXUywuLACX1UzmV1F1znYJJJk3Ej files/community/master/governance/votes
+QmfRJKxMysLY8mJxMeijR8ZcQSQbxhfNMMoBuGm41kbRcT files/community/master/governance
+QmVnzq3Uigw9LscXYyr1dApsB7Z4fxhB6mD9zjjxfejvQj files/community/master
+QmXWEKLBkW4FkG1vY7iSfR8P1E7moMjypncMNrgbHDSTkW files/community
 QmcFPseUQXWmfMSF8emhuTACR9q2pApZ9rpK1RZL4y9Mdn files/protocol-metadata/main
 QmeepNdPr4oQevzgDbZaiHqb2KrxbnmavATL4gvMMXyUfA files/protocol-metadata
-QmP9atP66A4xwy7yJPQueQCzuL1R2MmiqkUFsSpescHgmc files
+QmZhUATJ9NcgPvhuXUad6r9VFfqfG1JxypYS8hXaNLPqxA files
