@@ -1,4 +1,4 @@
-Last sync: Thu Apr  6 01:17:03 UTC 2023
+Last sync: Tue Apr 11 01:18:15 UTC 2023
 
 QmPSy2TD8rCkFVb6mxDg62j444iATnxjXf51ojJPvHheat files/community/master/governance/delegates/0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3/avatar.jpg
 QmaRXJAqSczKr6XfZZNC6MrYAtgi1YmT1xgTpdJJNdcAsr files/community/master/governance/delegates/0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3/metrics.md
@@ -93,11 +93,11 @@ QmRSBqFynUeM3Ly6Q7E57rJeW7AD9auJ7wQCLyjVC5TCFE files/community/master/governance
 QmZxjtAuGh2d1G9US5ELcnWjYnrkmJ6ztihTe76iYX4J5b files/community/master/governance/delegates/compensation/2022-03/MKR-delegated-by-day.csv
 QmTEiTP8ZFoHVck5DKaV3zoeHCdW22CqdtQadE5gfAdUZ7 files/community/master/governance/delegates/compensation/2022-03/calculations.csv
 QmZSuZ618Bt5LVm9KdPDEW3nFESJVQQ67mEzjDCDU3NANe files/community/master/governance/delegates/compensation/2022-03/payouts.csv
-QmZssFfWnBYsvM5F8sc3o7jXNrkTdDG66AY3rFJohh5FSd files/community/master/governance/delegates/meta/delegates.json
+QmTs11wo5xZ8Qe1vKKqfHp8BNB7UWJW6S3SStivk42BChY files/community/master/governance/delegates/meta/delegates.json
 QmV9q7umNCKbU6ua6t21yucSi3bBqxtNpcEU4CPuFnn768 files/community/master/governance/delegates/meta/tags.json
 QmWgx9TxEXF5F6bvMBoKkPYCY9jn1gMmbsNW5NfRirrezw files/community/master/governance/delegates/template/avatar.jpg
 QmQJYXSk2VgzSLxs8Xzsjo6nnC7AYm7SVYF8u4vjsAGAot files/community/master/governance/delegates/template/metrics.md
-QmfGV4upsukK2SLSAxywPYGKqGP9QFcTdGTKCcNKbKdyH4 files/community/master/governance/delegates/template/profile.md
+QmXnHWKSzEaMkX6TV5vuhutG539dzFq1qQUqS1XTyTnyug files/community/master/governance/delegates/template/profile.md
 QmSvAa5ono4NnZiaUVZBamARcGr8rxA5Z4yRU8q3sEiwYp files/community/master/governance/polls/Activate Liquidations for Stablecoin Vaults to Clear Bad Debt - October 31, 2022.md
 Qmeqv6ajtj58in3mphkYs9QSma84JCkWNjcyBZJQdKxCCP files/community/master/governance/polls/Activate the Governance Security Module.md
 QmdzCLvjrNcse4i2MdeRgVPRsnD21MFFXf3McQqPMbRP6J files/community/master/governance/polls/Add ETH-A to Liquidations 2.0 Framework - April 26, 2021.md
@@ -917,6 +917,7 @@ QmbjR1n3eXonZ91i3HH979edvV4D1EBZg4gdrrMDgZijmF files/community/master/governance
 QmSAsT8SAfBKiNxFscjEdiM4D1JeJ4GeC7W956xwt4XFr8 files/community/master/governance/polls/Ratification Poll for Growth Core Unit MKR Budget, GRO-001 (MIP40c3-SP23) - August 9, 2021.md
 QmSbiSTXLXwNymGwhBdTXfa2uu36MmT5jQ9SKKf8j6sxWr files/community/master/governance/polls/Ratification Poll for Immunefi Security Core Unit (IS-001) - November 8, 2021.md
 QmNVWmdUsbceuxoGB6xGh2V4nQsKKSYVAMKJg8C3WjxDHS files/community/master/governance/polls/Ratification Poll for Implementation of DSS Charter (MIP59) - October 11, 2021.md
+QmTYdpaUb9Si9CFLsMrJ9Q8A1cFnaGfV17tgZRq59QncVq files/community/master/governance/polls/Ratification Poll for MIP Amendment Subproposals (MIP102c2-SP2) - April 10, 2023.md
 QmQvR5vtcsgWHrgmsLj1Lh84sEKrwg6vjmcWVQPqe184L2 files/community/master/governance/polls/Ratification Poll for MIP14 Repeal (MIP4c4-SP2) - January 9, 2023.md
 Qmerh2xJcYA6csww1ePP2N8EqfawQsVcjmXRe1gAnnVCQx files/community/master/governance/polls/Ratification Poll for MIP16 Amendments (MIP4c2-SP20) - June 13, 2022.md
 QmYB4U7SYdfPNBn1VUUSibh8zDGSsgDN6si3ZhQE5SV2Ex files/community/master/governance/polls/Ratification Poll for MIP50 Direct Deposit Module Amendment (MIP4c2-SP23) - August 8, 2022.md
@@ -1065,7 +1066,7 @@ QmUM7GdjiBc7n8tH3DhoJMp7653NnfvL4X3GPV6NXMeCpa files/community/master/governance
 QmXKPQAWZrM6y443GtWgeKjM13qn8PZWN9RiMKz5N7jB46 files/community/master/governance/polls/assets/DeFi Public Feed Proposal.png
 Qme9Wreo89JYNwoEv1n3Kihuh2p6MtC95A7wMChzptuBEj files/community/master/governance/polls/assets/Oracles Incentives Restructuring.jpeg
 QmVNqUuJQHCyTk3ch3VBjdjTQVuXy1VaqoG7pJLXGHk7bc files/community/master/governance/polls/meta/categories.json
-QmR4nJoccoy9e66aaxL8R1LqPXVicVCgmQoy4YotPxr96B files/community/master/governance/polls/meta/poll-tags.json
+QmNv7MJCjhqDSUjHA5W9oeJkmn2cSWGNqtPhkXCUNLSD5G files/community/master/governance/polls/meta/poll-tags.json
 QmQWrKj7z5GWho5y5MRKfySCdVcxb81YNxCA4PpdQMTnAQ files/community/master/governance/polls/meta/retroactive-poll-categorization.json
 QmUrbG4DpMRNAPXrkUViEUnzWeUd9XqKZvzDUaTjMKmUiS files/community/master/governance/polls/meta/tags.json
 QmP4Jc35m9KQpF5nFxCCbUqJHmJrMEwtiFiXr3P8tXiDqB files/community/master/governance/polls/templates/Archived - Not Updated/Base Rate Adjustment - $date_MONTH_DD,_YYYY.md
@@ -1304,11 +1305,11 @@ QmZjUa9PRXgYUJmNTdUVxyGBfjnwjwh1nhoAiyqRWJRqAN files/community/master/governance
 QmYD9G2LXgGVujmYPbrSWuiQLEgBG3R7DzyxNZck8iT1K8 files/community/master/governance/delegates/compensation/2022-02
 QmV1g1H5x4VbBtd32nzhdCtTniJWi1Zodps7bMsNRGpQy5 files/community/master/governance/delegates/compensation/2022-03
 QmWkdKidufFpXHMF2ne6seFZjcFampopg9HzQJMFjEgicM files/community/master/governance/delegates/compensation
-QmUtmZrLRWvmxRt7uTV1zUs6vpKqsS4Du2sN2HvFbfMpoY files/community/master/governance/delegates/meta
-QmPLwtt2NLuGfmv6AGAbhgUnyQBEVbMy4DwatU48zGo5ec files/community/master/governance/delegates/template
-Qmb4SqGjv1wDDEGt9q6DP7LjvTsrVZodtghg46zK8EcMke files/community/master/governance/delegates
+Qma1ZDSYsw44dCc22tf4VzB18uZZ4n4zXoJVG3r1ovrfdh files/community/master/governance/delegates/meta
+QmQtidT1Mt5TeLvtkw8dk67m8MJgXJfbYrEb8qFPSWf6pJ files/community/master/governance/delegates/template
+QmZPuaFAWq8wikc4J1sa5GCouwwDnGSCG6ZvG5M4ZFG96P files/community/master/governance/delegates
 QmUJArSUASZZqooGDJfP7jE8PH53qb8pHib7sQDpChXoff files/community/master/governance/polls/assets
-QmNMF4i6ktBK95kh1BuzTdwX7tErKSUzUqQa5bBdYdkC2y files/community/master/governance/polls/meta
+QmTPdY6GqVFEPkBuwQrW2ojXoDYh7YtQY1FiVEs66tYuUv files/community/master/governance/polls/meta
 QmaTMYNj9MKUQ9gVttvGURPL8UZSjcPT5FoCUQ7ddtExfv files/community/master/governance/polls/templates/Archived - Not Updated
 QmPKnXKBVc6jaenTMeGvroLFYwYsM22nTfJiXocJSAB7rY files/community/master/governance/polls/templates/Collateral Offboarding
 QmS3ZNxtPRRwgt3Fazehyx8DW1nZ8ctN36hYQ356MzmyjH files/community/master/governance/polls/templates/Collateral Onboarding
@@ -1319,13 +1320,13 @@ QmRytFnkyK9ocxkcZgm3kSvGaW4cEv38Bq3VUchdJPkchM files/community/master/governance
 QmdXbpJNfFFXtajhyzMf7Mza7bjwHJgfKibbCCm1ZVNFny files/community/master/governance/polls/templates/Oracles
 QmNWqTHvid4NG2JBaEhgAqcFXYQTwG538oDTQ3fLUGqwtK files/community/master/governance/polls/templates/Risk Parameters
 QmPe169c5sRnHf2XKMuM5evH3T7XRYzgt9SdJaBg1rFVNG files/community/master/governance/polls/templates
-QmbVpxgRVb9Hnc1VLc4B1GDhDvTGt44evGaJqkE3cb1kon files/community/master/governance/polls
+Qme9VGbiZXRGJgXBfiG1V46je73aXZcweh2XcJatjJyWRL files/community/master/governance/polls
 QmQEm9aeDUn2kYpqJ6Q8FBdoPRb1QEp25oVm3DGWqvqDiV files/community/master/governance/votes/active
 QmVTdDoMFXvAjwqENEqMYtGxMxqF1bSffdn7W4JE4WguGf files/community/master/governance/votes/templates
 Qmamm9v289MAE4QPwAS1Rw7yMhBsytBQFe6ZRVThFUgf5p files/community/master/governance/votes
-QmSisWoX7VfQArFJmBHW8oM3mg2awpYsXeykEDdfQ92dtn files/community/master/governance
-Qme1m1Cv5evNgeoDEg8MPXMRy5jGFB57jWn6rRR4qbK54v files/community/master
-QmP3fvL1rQBoWu6VFRx7wX66eiPKVmcDnLSEuiKgW67P6e files/community
+QmYZF6D2EHwfSprzuNFftD3uKXfY52i7bfsTJEt9rmkCQD files/community/master/governance
+QmUWEfAcqi4Xfyv4ZJdBNQrvK5rYohBM92snMyG4WxkoKH files/community/master
+QmQDfKLcUdgEzsgTpZa4yiQx4HpuJBvNKNLYLjaext66rR files/community
 QmcFPseUQXWmfMSF8emhuTACR9q2pApZ9rpK1RZL4y9Mdn files/protocol-metadata/main
 QmeepNdPr4oQevzgDbZaiHqb2KrxbnmavATL4gvMMXyUfA files/protocol-metadata
-QmPnbt1EZhBqu17doUopfTW5jkienVjeb8yt1vpPFm7M9W files
+QmdeNvDuz5KfN9wEhPWMrkfRHnHizHzG57LG8VQpca4Wtb files
