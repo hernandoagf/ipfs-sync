@@ -1,11 +1,10 @@
 ---
-name: Flip Flop Flap Delegate LLC
-external_profile_url: https://forum.makerdao.com/t/cvc-registration-submission-composable-cvc/20348
+name: $delegate_name
+external_profile_url: https://forum.makerdao.com/t/avc-registration-submission-composable-avc/20348
 avc_name: Composable AVC
 ---
 
 # Composable AVC
-Name: Composable AVC
 
 **What is the Composable AVC?**
 
@@ -21,6 +20,10 @@ Name: Composable AVC
 
 Because of our commitment to the Credible Neutrality principle of acting as a conduit for council members who vote in an entirely decentralized way via the jokeraces, we are neither Dovish nor Hawkish in nature.
 
-# Flip Flop Flap Delegate LLC
-Delegate Address: 0x47B70a7dda392e1eD75D50C986570c3e026c652c  
-Forum: @flipflopflapdelegate  
+# $delegate_name
+Delegate Address: $delegate_controller_address
+Forum: $delegate_forum
+
+## Delegate Statement
+
+$delegate_statement_optional

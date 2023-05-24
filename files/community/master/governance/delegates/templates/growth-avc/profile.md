@@ -1,11 +1,10 @@
 ---
-name: Bandhar
-external_profile_url: https://forum.makerdao.com/t/cvc-member-registration-submission-growth-cvc/20308
+name: $delegate_name
+external_profile_url: https://forum.makerdao.com/t/avc-member-registration-submission-growth-avc/20308
 avc_name: Growth AVC
 ---
 
 # Growth AVC
-Name: Growth AVC
 
 **What is Growth AVC? Growth AVC is a…**
 
@@ -23,6 +22,10 @@ Name: Growth AVC
 
 3. **A Safe Harbor.** While the banning rule from AVC to CD is not yet crystal clear, we will not ban CDs unless they acted in an unconstitutional way deemed by both AVC and facilitators. In addition, any CDs that were banned by other AVCs for “preference” rather than breaking the constitution will have a chance in Growth AVC.
 
-# Bandhar
-Delegate Address: 0x04662C36E056Acfc35D9b252505E4E5c25b93779  
-Forum: @Bandhar  
+# $delegate_name
+Delegate Address: $delegate_controller_address
+Forum: $delegate_forum
+
+## Delegate Statement
+
+$delegate_statement_optional

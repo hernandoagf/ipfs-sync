@@ -1,11 +1,10 @@
 ---
-name: Flip Flop Flap Delegate LLC
-external_profile_url: https://forum.makerdao.com/t/cvc-creation-kiss-cvc/20346
+name: $delegate_name
+external_profile_url: https://forum.makerdao.com/t/avc-creation-kiss-avc/20346
 avc_name: KISS AVC
 ---
 
 # KISS AVC
-Name: KISS AVC
 
 The purposes and values of MakerDAO as stated in the MIP101 draft have generated a lot interest and discussions in the MakerDAO community and, ultimately, and are currently being voted and approved. 
 
@@ -45,6 +44,10 @@ Of course, a binary description of this type does not capture the immense variet
 
 **=>** The KISS AVC sits on the **Hawkish** side of the spectrum.
 
-# Flip Flop Flap Delegate LLC
-Delegate Address: 0xC63e4ee8d204292a95ee7BdFc71F184FB866360C  
-Forum: @flipflopflapdelegate  
+# $delegate_name
+Delegate Address: $delegate_controller_address
+Forum: $delegate_forum
+
+## Delegate Statement
+
+$delegate_statement_optional
