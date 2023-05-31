@@ -1,4 +1,4 @@
-Last sync: Tue May 30 01:25:28 UTC 2023
+Last sync: Wed May 31 01:41:47 UTC 2023
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -1444,7 +1444,7 @@ QmUUn2iManGFTFNRHCGpA2NtW7drzv2Qgtz6igvUQA5zsm files/community/master/governance
 QmU3GrnypyB8DsFHbhtZt9TCYbjrL5HMYRHxpXS5cBjjQe files/community/master/governance/votes/Executive vote - September 7, 2022.md
 QmfNJCURnTxoZ9X2GNEPKEKYUoBka9KN2TAeBE4nCLsLo2 files/community/master/governance/votes/active/proposals.json
 QmSdNicbzHiPaTFubJbssY7WXyxU5Dw4BLnh6jMFm3JaHV files/community/master/governance/votes/templates/Executive vote - $date_MONTH_DD,_YYYY.md
-QmbZKST7j36uZ4zg8zRtoCWHYtubq3aH9KomrQHZF4dLxE files/protocol-metadata/main/collateral-info.yaml
+QmbzxD2CddsQgZxL7uhNe9KBsii16hqaGd7gkyb58F8hFS files/protocol-metadata/main/collateral-info.yaml
 QmbAAWncgkaTDjyxD9gLV9m23C5dgTCTrf3d96vDLLRiEi files/protocol-metadata/main/parameter-info.yaml
 QmfUzSWxs8JyJicRZmuWdwSz9k92WYLCACE5ni7SBNxN9q files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454
 QmUB3w2i9ZdManjktD3JoSd5evt4VhmeHPdtBJZSqjnud2 files/community/master/governance/delegates/0x0A907fE3aDb890db7DB27A7F21E188a4127B2e7c
@@ -1552,6 +1552,6 @@ QmYK4bLhP8bkdEmU3JUe4uxstxMC3AFpLwv8MHK9ptJGwf files/community/master/governance
 QmeKFZKyRVmEmxmPjRpUo9xMKm5XahKvrbQBRMajESFCHw files/community/master/governance
 QmWAUnWsV9fWPpsQn22n2JvzhTiocw2gJ3bo5HfXNphzvT files/community/master
 QmV9PnqNQDt9ya6ZcfT1Ksop44gtQD36YQoKVs16Bp1MVx files/community
-QmcFPseUQXWmfMSF8emhuTACR9q2pApZ9rpK1RZL4y9Mdn files/protocol-metadata/main
-QmeepNdPr4oQevzgDbZaiHqb2KrxbnmavATL4gvMMXyUfA files/protocol-metadata
-Qma26YtgawtS8cxqEEVrHEeM6twweAiKWzJBq1SuhTgxg7 files
+Qme3sLAbMKwfJUtFgGTe771qgToonAeFQFR5eVaJhteAiJ files/protocol-metadata/main
+QmNuTTUGQW9NVDBkBrSBmLegKkm9zCY4NPhhZVDKuiATbF files/protocol-metadata
+QmY5Ue9LxoRhpgU57XqMhQtk8PzajD7XAfu9qw9L2yrxTJ files
