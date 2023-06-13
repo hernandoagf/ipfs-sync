@@ -1,4 +1,4 @@
-Last sync: Fri Jun  9 01:44:10 UTC 2023
+Last sync: Tue Jun 13 01:38:10 UTC 2023
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -504,6 +504,7 @@ QmNf5pe9mtM4bz4Z4aQXHXwcGEJgHErjkrPwpwv8ytW7Lc files/community/master/governance
 QmQXTMw1U8D6YshEE1vzdcb6NXttYHVEN31uTWy7tc14qF files/community/master/governance/polls/Fire Drill - July 8, 2022.md
 QmPpQ49pz5r9wRzVNPN1Ra4T1WCLjMuXQW7os7QWaG5xxh files/community/master/governance/polls/Fund Ambassadors Program Pilot - March 14, 2022.md
 QmemHGSMFvijMKJzQMU2AX6zYouw1fn2UzfgutrJkZakNh files/community/master/governance/polls/GUNIV3DAIUSDC1-A Parameter Adjustments - November 8, 2021.md
+QmUJMyDiMq4moLjbaBnHrgfC8No3ZRwSHGLULqXprALS5h files/community/master/governance/polls/GUSD PSM Parameter Adjustments - June 12, 2023.md
 QmNsNWTHxJM8Wx99fLKiYYwP44dZvN9kse2157UaCbywYr files/community/master/governance/polls/Governance Communications Core Unit (COM-001) Funding Request - December 12, 2022.md
 QmfZ5U2Z2NnqdRSVKbd5ZoFFiewcirZWq7a5odRrTpDT9T files/community/master/governance/polls/How Should Coinbase Custody Hold Deposited USDC - April 17, 2023.md
 QmY5shyy4s9KzVNxYpZdoJnPLHjL3avARWN7fR2w7gy9aB files/community/master/governance/polls/Inclusion Poll - Content Production Core Unit MIP Set - April 12, 2021.md
@@ -1030,6 +1031,8 @@ QmQRtZW199DiL6gCSvyjDtbqyzRy9nYPRXZuJjVQnZwrjU files/community/master/governance
 QmWDna6rYG6MzLdccUj1zqAFFh9zj4NMyEGMcXJiFNBaox files/community/master/governance/polls/Ratification Poll - Intangible Asset Assignment (MIP60) - February 14, 2022.md
 QmWgQ2NXLLQkCcjMusgkPSJBWPsZgUkzEATUXvnCZKXNcp files/community/master/governance/polls/Ratification Poll - L2-to-L1 Fast Withdrawals (MIP69) - May 9, 2022.md
 QmcV2pMZSaVDQnmBZ4BCvrK5YaPDWJPP6t5vx6aCrRQk8w files/community/master/governance/polls/Ratification Poll - Legal And Commercial Risk Domain Work on Greenlit Collateral BlockTower Credit - RWA Arranger SPF (MIP55c3-SP9) - October 10, 2022.md
+QmdnSKPuTYLsFd1sbQabwriaXQ1CqfFXw3YrQeF38bSkU4 files/community/master/governance/polls/Ratification Poll - MIP Amendment Subproposal (MIP102c2-SP8) - June 12, 2023.md
+QmacGCFKnhxenMqAnRpC6mkPsvqewfby9Bcaw4Cp8bd4uE files/community/master/governance/polls/Ratification Poll - MIP Amendment Subproposal (MIP102c2-SP9) - June 12, 2023.md
 QmXVjbWGMQdArJYpG6iSFwgJrV8qDPvVrBDwjrmZZood21 files/community/master/governance/polls/Ratification Poll - MIP40 Budget Process Amendment (MIP4c2-SP19) - May 9, 2022.md
 QmPPGf4qcSDAwHBpNPepEHsGkQdGpi13tUixvTbMShteYu files/community/master/governance/polls/Ratification Poll - MIP55c3-SP11 - December 12, 2022.md
 QmXDh7RRuCpxVm6UgoTjKhdLh2EFhDcRqWuVTCVS8YZKdo files/community/master/governance/polls/Ratification Poll - Modify Core Unit Budget - Real-World Finance (RWF-001) (MIP40c3-SP61) - March 14, 2022.md
@@ -1253,9 +1256,9 @@ QmUM7GdjiBc7n8tH3DhoJMp7653NnfvL4X3GPV6NXMeCpa files/community/master/governance
 QmXKPQAWZrM6y443GtWgeKjM13qn8PZWN9RiMKz5N7jB46 files/community/master/governance/polls/assets/DeFi Public Feed Proposal.png
 Qme9Wreo89JYNwoEv1n3Kihuh2p6MtC95A7wMChzptuBEj files/community/master/governance/polls/assets/Oracles Incentives Restructuring.jpeg
 QmVNqUuJQHCyTk3ch3VBjdjTQVuXy1VaqoG7pJLXGHk7bc files/community/master/governance/polls/meta/categories.json
-QmVpggAzCCizfPDLoB12C2Wd6mjNEpNAAbqNojeSKCMZSj files/community/master/governance/polls/meta/hashed-polls.json
-QmWxp8Wq26zo6CkVqKbvesoi2TvjcU3wNsbYgFTNLuKtab files/community/master/governance/polls/meta/poll-tags.json
-QmcnPr2mdZ34WWFXKcdVG7mLecE8LY4T6BRVanPTvjMHcf files/community/master/governance/polls/meta/polls.json
+QmbKV7Y4ccj8HtsVWRrd8co6jqjsgQuqP4jp2vWWtjrS8P files/community/master/governance/polls/meta/hashed-polls.json
+QmaNTbQ7HzNKWvFCuA7yapzXdB8NyN2pWUK68nfRvj9PeJ files/community/master/governance/polls/meta/poll-tags.json
+QmezePneq4ScvNaT86DCdw2nbp66xXqmgGbFhUHa3sTWfu files/community/master/governance/polls/meta/polls.json
 QmQWrKj7z5GWho5y5MRKfySCdVcxb81YNxCA4PpdQMTnAQ files/community/master/governance/polls/meta/retroactive-poll-categorization.json
 QmcBka3xK8CEWPGQdApmS4ZRJaDGiFa3osipiBZqYroNvY files/community/master/governance/polls/meta/tags.json
 QmP4Jc35m9KQpF5nFxCCbUqJHmJrMEwtiFiXr3P8tXiDqB files/community/master/governance/polls/templates/Archived - Not Updated/Base Rate Adjustment - $date_MONTH_DD,_YYYY.md
@@ -1576,7 +1579,7 @@ QmQwTPApETQdR94atkVvNYoJf9SSKymx1op75KLt3SmfTN files/community/master/governance
 QmSTSs6xT8yvappxwZUtBMBrvEGJX3qECpMZ45JhW6CQjX files/community/master/governance/delegates/templates
 QmPVQECQ51TxLQDKj3ZYtTNT7oX8xLneZ4e3noSzv5cgKk files/community/master/governance/delegates
 QmUJArSUASZZqooGDJfP7jE8PH53qb8pHib7sQDpChXoff files/community/master/governance/polls/assets
-QmVuim7pD2rh957YA2mpoEbE2iuWApHuhohdV4Rj7DD2jL files/community/master/governance/polls/meta
+QmfQq9WWQ9Sv58btD2qdTTkzNKtMgTd8WUmQdhUNpepE1d files/community/master/governance/polls/meta
 QmZoCK5ofn9yoCXYaNhtzrJsrDcLfD2uzqXceKziQD364N files/community/master/governance/polls/templates/Archived - Not Updated
 QmWr15J8ogwbMSqfKZcUF9YZYtypKJNm8PvtALfJwMkKCk files/community/master/governance/polls/templates/Collateral Offboarding
 Qmed7BLsiTYFY8SF2Sn87U3gn6ZwQDgUMRQnwQD6A8vUhS files/community/master/governance/polls/templates/Collateral Onboarding
@@ -1587,13 +1590,13 @@ QmTZCoNc87qutGUz8jbofSYxWM4hknzm9SoyJPsmrSuSJM files/community/master/governance
 QmfQr8pftpVRD4xcGemwXbKPqbfKXD46h9MTSS5jgmnKCX files/community/master/governance/polls/templates/Oracles
 QmR63B8qMiMuivWVyJn1zqmiWjDH4SLckMJPZ9zmrcDsSm files/community/master/governance/polls/templates/Risk Parameters
 QmXjjPERPErvUufW99Ln8VyWmj9nnarSm9WUUuy1mbhNTK files/community/master/governance/polls/templates
-QmTUrx6natjZu79eQZ1SJvekRveYutakZ5SSXC4qtFfHNh files/community/master/governance/polls
+Qmam8yswnEjDyxPbdGeBXVFrADan3ZgPF6xT7akKzuUxXa files/community/master/governance/polls
 QmR7BN6epexUvtG9D6kJtPEoV946KcBKt4Qz63X1RrVQ5f files/community/master/governance/votes/active
 QmPotuhNacwfLsQ5z8C4yAyXzkK432pjSSinm8u9VRbhVw files/community/master/governance/votes/templates
 Qmdzby3pEi1ik5mEuHNxHQMufyxc2sPA8jD2qNbixX4m9z files/community/master/governance/votes
-QmZ7nu4pJP9PYcJZKokFmwXomaMtsXiBR8xwKfUhNCpZ6D files/community/master/governance
-Qme4BZeWmQLaTx4DwMTcaKes3BG3Hioa6C9imAnVc2XVXA files/community/master
-QmNr7EqHffc7x8MTaDXG1Z1Yb3tU4ndVATTg181BimrbHZ files/community
+QmZgCVhQTLuzdfWcJF1iKVVzvAWp9WtNc8mTxMuQHqxiw1 files/community/master/governance
+QmdgzC4mey1WicRLJ5GceHiDqUD7svnucdNfBCwbY83TAq files/community/master
+QmWN34ojZxkQpMZnaDY9HihDqo1rFztfVH5Rc7EvxLkAfv files/community
 Qme3sLAbMKwfJUtFgGTe771qgToonAeFQFR5eVaJhteAiJ files/protocol-metadata/main
 QmNuTTUGQW9NVDBkBrSBmLegKkm9zCY4NPhhZVDKuiATbF files/protocol-metadata
-QmT3nU9xv1E1zazGTMYeuJ7yZyQdrkqcNY5utqLm4q2xn4 files
+QmcRQdrVARqb64nMWHy4FU7f41tSoiVUNPk2dkeEe6G17S files
