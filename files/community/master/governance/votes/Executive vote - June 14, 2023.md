@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] BlockTower Andromeda (RWA015-A) Onboarding, Risk Parameter Changes, DSR Increase, Spark Protocol Proxy Activation, MKR Vesting Transfers - June 14, 2023
 summary: Onboarding BlockTower Andromeda (RWA015-A); BlockTower vault Debt Ceiling changes; Stability Fee updates, Spark Protocol D3M and RETH-A Maximum Debt Ceiling and Target Available Debt increases; DSR increase; activation of the Spark Protocol Proxy; and MKR vesting transfers for Sidestream and DUX Core Units.
 date: 2023-06-14T00:00:00.000Z
-address: "$spell_address"
+address: "0x9E16c8B4C998604471EA0e63ECBb6d6d30F07fA0"
 
 ---
 # [Executive Proposal] BlockTower Andromeda (RWA015-A) Onboarding, Risk Parameter Changes, DSR Increase, Spark Protocol Proxy Activation, MKR Vesting Transfers - June 14, 2023
@@ -159,6 +159,8 @@ If passed this executive proposal will:
 - Give the Spark Proxy admin access on Spark Protocol.
 - Add the Spark Proxy to the [Emergency Shutdown Module](https://docs.makerdao.com/smart-contract-modules/shutdown/emergency-shutdown-module).
 - Trigger the Spark Proxy spell actions listed below.
+
+*Technical implementation note:* The Spark Proxy will be given admin access by calling `ACLManagerLike(SPARK_ACL_MANAGER).addPoolAdmin(SPARK_PROXY)`. The Spark ACL Manager address is [0xdA135Cd78A086025BcdC87B038a1C462032b510C](https://etherscan.io/address/0xdA135Cd78A086025BcdC87B038a1C462032b510C) and the Spark Proxy address is [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4).
 
 The Spark Proxy spell address is [0x41D7c79aE5Ecba7428283F66998DedFD84451e0e](https://etherscan.io/address/0x41D7c79aE5Ecba7428283F66998DedFD84451e0e#code).
 
