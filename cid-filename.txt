@@ -1,4 +1,4 @@
-Last sync: Sat Jul 15 01:48:46 UTC 2023
+Last sync: Tue Jul 18 01:58:57 UTC 2023
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -510,6 +510,7 @@ QmW5GK9BF5JcNtsVAkjBDnjMMvEJM4kiCN9cX8grt2qjJ7 files/community/master/governance
 QmYxoQFsB8gezdKxGBQvYaQPAkCWvkPAuJZKwjJJ4N356z files/community/master/governance/polls/Decentralized Collateral Parameter Changes - April 17, 2023.md
 QmeaS3V8VxYCx81mTaBddU2v7vm6FpzT2Pxe9czTDbEkvs files/community/master/governance/polls/Decentralized Collateral Scope Parameter Changes - Add exemptions to the Benchmark Yield Requirement - April 3, 2023.md
 QmRRceEoEZMogqhs7ncAPw8DPZDyFayXtBRjPzjoRjyakz files/community/master/governance/polls/Decrease GUSD PSM Fee Out (tout) - January 16, 2023.md
+QmR8cYb1kEPbzGeGgArzhgkWXSoVNvCAHHVkSsou25h7rB files/community/master/governance/polls/Decrease the Harbor Trade Credit (RWA004-A) Debt Ceiling - July 17, 2023.md
 QmcLGa49Fa6qDuYC75BaLq9FUXwT8XPH1zTUVqNUeAHHK2 files/community/master/governance/polls/Decrease the RETH-A Dust Parameter - March 6, 2023.md
 QmbvuhYHe1ksu6w5zwPSbDJZUYVDCQ9xwiJvfaWMp4nuGs files/community/master/governance/polls/Delegate Compensation Increase - November 8, 2021.md
 QmPCbBu3khV8dkG1i6y7GC8nP1cU18FjfcxbA7ZVvgZFyB files/community/master/governance/polls/Delegate Compensation Trial - October 25, 2021.md
@@ -1277,9 +1278,9 @@ QmUM7GdjiBc7n8tH3DhoJMp7653NnfvL4X3GPV6NXMeCpa files/community/master/governance
 QmXKPQAWZrM6y443GtWgeKjM13qn8PZWN9RiMKz5N7jB46 files/community/master/governance/polls/assets/DeFi Public Feed Proposal.png
 Qme9Wreo89JYNwoEv1n3Kihuh2p6MtC95A7wMChzptuBEj files/community/master/governance/polls/assets/Oracles Incentives Restructuring.jpeg
 QmVNqUuJQHCyTk3ch3VBjdjTQVuXy1VaqoG7pJLXGHk7bc files/community/master/governance/polls/meta/categories.json
-QmTo34mEB6RrRQtwQwgfwAq6CcbcDdxQpAv4ejYfwoMWMH files/community/master/governance/polls/meta/hashed-polls.json
-QmXMzythqiDGVPUSoyvWLrDPJe5mBJEQabf2eT5vHg9WuB files/community/master/governance/polls/meta/poll-tags.json
-QmQe5c57VVzYztDzyfo56VTa7ZPc3EMt1C6HQBnU366RW8 files/community/master/governance/polls/meta/polls.json
+QmX92g5agKC5zCLpmrXzG8UzDxyBsvKwG2Ze2W87C37KNX files/community/master/governance/polls/meta/hashed-polls.json
+QmSJYE3kktw1CWkYCFBoi8ENfipYx4HmapvfvkLedUuYqf files/community/master/governance/polls/meta/poll-tags.json
+QmbmtR5fEriCBoDeWS642ZRo1KFqLyJeKa4FJBoLhEMtc1 files/community/master/governance/polls/meta/polls.json
 QmQWrKj7z5GWho5y5MRKfySCdVcxb81YNxCA4PpdQMTnAQ files/community/master/governance/polls/meta/retroactive-poll-categorization.json
 QmcBka3xK8CEWPGQdApmS4ZRJaDGiFa3osipiBZqYroNvY files/community/master/governance/polls/meta/tags.json
 QmP4Jc35m9KQpF5nFxCCbUqJHmJrMEwtiFiXr3P8tXiDqB files/community/master/governance/polls/templates/Archived - Not Updated/Base Rate Adjustment - $date_MONTH_DD,_YYYY.md
@@ -1612,7 +1613,7 @@ QmQwTPApETQdR94atkVvNYoJf9SSKymx1op75KLt3SmfTN files/community/master/governance
 Qmb1n97rc1RFQdWhumAVyFptch2SEQNSTsQfFUNo8THrCK files/community/master/governance/delegates/templates
 QmNb2HHqLfJwXsUW9YvmTpSQJABj68kSqBDUsbg3sCKnHE files/community/master/governance/delegates
 QmUJArSUASZZqooGDJfP7jE8PH53qb8pHib7sQDpChXoff files/community/master/governance/polls/assets
-QmYvFG58xSddLuhqAiMvnS5vHE2t3bLYirKUNMzBYycCzK files/community/master/governance/polls/meta
+QmWu8Xd6EUtjYNwhHPFj8B9HWfyMUq62cvdt6vyVaCW1iX files/community/master/governance/polls/meta
 QmZoCK5ofn9yoCXYaNhtzrJsrDcLfD2uzqXceKziQD364N files/community/master/governance/polls/templates/Archived - Not Updated
 QmWr15J8ogwbMSqfKZcUF9YZYtypKJNm8PvtALfJwMkKCk files/community/master/governance/polls/templates/Collateral Offboarding
 Qmed7BLsiTYFY8SF2Sn87U3gn6ZwQDgUMRQnwQD6A8vUhS files/community/master/governance/polls/templates/Collateral Onboarding
@@ -1623,13 +1624,13 @@ QmTZCoNc87qutGUz8jbofSYxWM4hknzm9SoyJPsmrSuSJM files/community/master/governance
 QmfQr8pftpVRD4xcGemwXbKPqbfKXD46h9MTSS5jgmnKCX files/community/master/governance/polls/templates/Oracles
 QmR63B8qMiMuivWVyJn1zqmiWjDH4SLckMJPZ9zmrcDsSm files/community/master/governance/polls/templates/Risk Parameters
 QmXjjPERPErvUufW99Ln8VyWmj9nnarSm9WUUuy1mbhNTK files/community/master/governance/polls/templates
-QmQ18AkNj1rWD1VzEmVyp9gV9H9gtbAZH3iiziPjkm2Upv files/community/master/governance/polls
+QmTcVxx4aRqgEpLedQPh1dzgkuzB1VYGnZ1w5jh4NDkJto files/community/master/governance/polls
 QmcaWBvLPTHYxpJv58pi9Mh7QC2ytsi6vBcw2YzNmZSKsa files/community/master/governance/votes/active
 QmVN2G925W5xqsm8Yfemii5kVojgvSZ69UjV8yMs2uMTjo files/community/master/governance/votes/templates
 QmdZNVabTth7yFhFGsV8rnxZ13yuXQ321AMFnQE2HJrmEA files/community/master/governance/votes
-QmZz89yutMXp9xLyZGv7U5HY8nk1ogjnQNWDsmP49U9UFF files/community/master/governance
-QmRsY17ZDyniQ8eGSkhmTiQpwPkiagbHH5V3QPdFdWbMNr files/community/master
-Qmanim2oYHj3jJPXPN3DHCFFwJtm7sZGJtN41vktzYigZ7 files/community
+QmXHiPKaXUmP6aCxYSPkcZYgSeJXhuZVcmhtXDMCt1HYm8 files/community/master/governance
+QmTniEB7zDHakTHTdzRZdnFEJrZw7knJfuuXX5tamHpsei files/community/master
+QmRKF7THmwAQ1vkqZzCu7WrXA389Bo1B8cuDKpqTNwxNHt files/community
 QmfWjXCgBa39mNbPFa5k5rtyzLgTCmKbNpzXH7kHcrUVhG files/protocol-metadata/main
 QmPQH1Dj9bnNtpFXf1UQYrkMwTnpEiUtMTQAHyYTYRyN9z files/protocol-metadata
-QmZRRUXaSPHLYJDsXMHbBvDf8r7zgofvoXmbtTpwyGzNc8 files
+QmTgcp8N8LjVJCBgcgikqcZzHCid6zxcVD34kHWtKrBYVJ files
