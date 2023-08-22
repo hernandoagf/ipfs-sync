@@ -1,4 +1,4 @@
-Last sync: Fri Aug 18 01:05:36 UTC 2023
+Last sync: Tue Aug 22 01:06:48 UTC 2023
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -598,6 +598,7 @@ QmXKjkwqYHHrKCKFNeTDyCUBNUdWVJyksfFaoANoZaS2ux files/community/master/governance
 Qme8bvNpvU5Zzhd3BawPmKNLfFhQzxwYUWUZFnsWPLYZt3 files/community/master/governance/polls/Inclusion Poll - The Keg MIP Set - March 8, 2021.md
 QmRAypDvKNph3JVV67m31qaXvNgYe9RV1w3K7vnh7re4G8 files/community/master/governance/polls/Inclusion Poll for MIP0 Amendments for Improved Clarity (MIP4c2-SP14) - May 10, 2021.md
 QmNNmokrPufafCJDVZLWALjha5omr9D1YTVMwnzK2byz5H files/community/master/governance/polls/Increase ETH-A Target Available Debt - March 1, 2021.md
+QmbMR8PUfvqZWyiXbGgGVS5fv9wDakxMehjW6fxgbTZZ44 files/community/master/governance/polls/Increase Spark Protocol wstETH Supply Cap - August 21, 2023.md
 QmPEn941iw8K8yZpWY84HXAi43CeUkdxWqh9GnWKj2PUN3 files/community/master/governance/polls/Increase Surplus Auction Buffer - October 19, 2020.md
 QmV8qPPmx58wSryBPMT6CQ92kPY76EVDqhUsq2wNX9P7RA files/community/master/governance/polls/Increase the Dust Parameter for ETH-B Vault Type - March 22, 2021.md
 QmQejeVXN6kS5hESoEfuBsnkbvhyRnnCVEphA2pZxpFPhV files/community/master/governance/polls/Increase the Dust Parameter for Most Vault Types - March 15, 2021.md
@@ -1196,6 +1197,7 @@ QmaEfHSrXGVpXphQDquF3FkMNgS4KTKpGD87UsMrryVj6C files/community/master/governance
 Qmd6UmX29aL4yCLh45moe8cztkMk1ByFeX5cf7upeCjAQ4 files/community/master/governance/polls/Reduce the PSM-USDC-A tout to 0 - May 31, 2021.md
 QmeAHmS2jPG9SPJK8NYQzSvriGXbJT5datV4SdYr83GSzP files/community/master/governance/polls/Reinstate Surplus Buffer Lerp - March 7, 2022.md
 QmRJSSGW8aaDQ78RhXgyuR9fHZUDPbUJ4Zwv46KHtSxTFs files/community/master/governance/polls/Remove the DC-IAM from MIP65 (RWA007-A) - March 13, 2023.md
+QmUigUeRFL7PVFY18QRXrDP5VFMdbAssg5LGWBEZ2pEmov files/community/master/governance/polls/Reserve Governance Facilitator Appointment - August 21, 2023.md
 QmdUdmEYqrjC5sV474w3rMkMrDntML8bDZDNaBoZD8FKTY files/community/master/governance/polls/Responsible Oracle Migration Proposal.md
 QmfZ2nxwRZNy3VBwzEE5FViZDQog5g83Uk1wJpQsN5hLCz files/community/master/governance/polls/Return Excess MIP65 Funds to the Surplus Buffer - March 13, 2023.md
 QmWscbHh4v57M2D25aan9LTc7tWZePq7gyFZvxbhrQxSqT files/community/master/governance/polls/Roll Out the DC-IAM to Current and Future Vault Types - January 18, 2021.md
@@ -1243,6 +1245,7 @@ QmavSJsGs57atXD6mZNEvBZrs3fF7CaaVwRymgjsP5MQyD files/community/master/governance
 QmUQBhFCt4QN3r6jX3hC4Zo6gZ81zrRUmbWgnSrCTGDTPi files/community/master/governance/polls/Sidestream Auction Services Core Unit (SAS-001) Funding Request - December 12, 2022.md
 QmQmxEZpyFRUMwk3Y8XZhQriXMviTanEevvJfLuTFH5St5 files/community/master/governance/polls/Smart Burn Engine Launch Parameters - June 26, 2023.md
 QmTRJNNHNv2GZtrsA9cFJdstxZyGTR691n7Za3tkYNEJzL files/community/master/governance/polls/Smart Burn Engine Parameter Update - August 7, 2023.md
+QmULJKwKjJujdkUAFSzgVeiEh1eJE378LwMnCrLxpUY66c files/community/master/governance/polls/Spark Protocol ETH Market Parameter Changes - August 21, 2023.md
 QmVgbGKTxgsNR2gZxw53nBbNaZH4LvVTxqV8Jh3VSfmaDK files/community/master/governance/polls/Spark Protocol WETH and DAI Market Parameter Changes - July 24, 2023.md
 QmWwXK4L5FbZLj3VRz9LA3dKppXTTyza7GQsLjksBaTGub files/community/master/governance/polls/Stability Fee Adjustment (August 5 2019).md
 QmSpdHvnXNucmdtpw8g9F9t6bsRBrUzgRoZb66EnvjB2hL files/community/master/governance/polls/Stability Fee Adjustment - August 12, 2019.md
@@ -1294,9 +1297,9 @@ QmUM7GdjiBc7n8tH3DhoJMp7653NnfvL4X3GPV6NXMeCpa files/community/master/governance
 QmXKPQAWZrM6y443GtWgeKjM13qn8PZWN9RiMKz5N7jB46 files/community/master/governance/polls/assets/DeFi Public Feed Proposal.png
 Qme9Wreo89JYNwoEv1n3Kihuh2p6MtC95A7wMChzptuBEj files/community/master/governance/polls/assets/Oracles Incentives Restructuring.jpeg
 QmVNqUuJQHCyTk3ch3VBjdjTQVuXy1VaqoG7pJLXGHk7bc files/community/master/governance/polls/meta/categories.json
-QmYQJr5C7qFnhkRGHaqzftZSR8NAWPMrvZg2wtqvWhgR6w files/community/master/governance/polls/meta/hashed-polls.json
-QmQuy8YVGnxD9TYVfDm733deUv5CzqjqXLKBdeNKQYwbAa files/community/master/governance/polls/meta/poll-tags.json
-QmasbPPTvTe8xUwQdWCvymr14HbKJkHUtomcZrtdhmnctV files/community/master/governance/polls/meta/polls.json
+QmekADnpjYiUvowBqjGLsikZVbdAfPofWaenEmRetGnyA5 files/community/master/governance/polls/meta/hashed-polls.json
+QmdRLzePXdZd67Vskz2XBP6sSPQNcLkYaachZsBpkXKTb2 files/community/master/governance/polls/meta/poll-tags.json
+QmcmE2vW95CUURx7zTB71yzZpbSYNqbeCFHXTUMinVSoXg files/community/master/governance/polls/meta/polls.json
 QmQWrKj7z5GWho5y5MRKfySCdVcxb81YNxCA4PpdQMTnAQ files/community/master/governance/polls/meta/retroactive-poll-categorization.json
 QmcBka3xK8CEWPGQdApmS4ZRJaDGiFa3osipiBZqYroNvY files/community/master/governance/polls/meta/tags.json
 QmP4Jc35m9KQpF5nFxCCbUqJHmJrMEwtiFiXr3P8tXiDqB files/community/master/governance/polls/templates/Archived - Not Updated/Base Rate Adjustment - $date_MONTH_DD,_YYYY.md
@@ -1314,8 +1317,8 @@ QmZKfQW1B1EP1TgP1mPAKYHpof7duBPHMrK85AoxETsf9H files/community/master/governance
 QmZuWeTjBNkCA9QiRLi2KkrfanqbrnuRgrBTAWt2Vi5BQm files/community/master/governance/polls/templates/Endgame Specific/Onboard $EcosystemActorName as an Incubating Ecosystem Actor - $date_MONTH_DD,_YYYY.md
 QmcnPvssFAdSiTk7bHnjM3TGxbKg2epVuP161DZP1R8z7E files/community/master/governance/polls/templates/Endgame Specific/Onboard $token to Spark Protocol - $date_MONTH_DD,_YYYY.md
 QmebtqxTJtTbgCrchb3EdqmUapkikWWd9cubt1gPSyiUHP files/community/master/governance/polls/templates/Endgame Specific/Onboard $token to the Spark Protocol - $date_MONTH_DD,_YYYY.md
-QmUYzR9YaNfvtgCQ6uWP8Fxu1kYkjYht1MS7vKPjAg7o7U files/community/master/governance/polls/templates/Generic/$GenericApprovalWithMajority - $date_MONTH_DD,_YYYY.md
-QmUbGN8akgpMywAQQYiv65ETsrztFL1o8QPLRtoGSc2twU files/community/master/governance/polls/templates/Generic/$GenericApprovalWithoutMajority - $date_MONTH_DD,_YYYY.md
+QmdkA5P6ivyVRzVCGGE1VuDoDVGoKpMjBkY7Y6cav1MQpZ files/community/master/governance/polls/templates/Generic/$GenericApprovalWithMajority - $date_MONTH_DD,_YYYY.md
+QmQeijVY2axCGXs8hD3JuNfp5nK6KuBZ2US313BFx2uJSw files/community/master/governance/polls/templates/Generic/$GenericApprovalWithoutMajority - $date_MONTH_DD,_YYYY.md
 QmQp96Kd8CrE5KnuVYoCKDGdka2f5RBbj8edPsXh2iZAWp files/community/master/governance/polls/templates/Generic/$GenericBinary - $date_MONTH_DD,_YYYY.md
 QmT4ST6BgyGozJuKU9fPr7BDV9tXrkSBh2B5LGfyNvhDVU files/community/master/governance/polls/templates/Generic/$GenericIRV - $date_MONTH_DD,_YYYY.md
 QmemzJdiatdqRcVfo2n7zk7JwicBLFbde6SRs8ZkbzDWAL files/community/master/governance/polls/templates/Generic/$GenericPlurality - $date_MONTH_DD,_YYYY.md
@@ -1634,24 +1637,24 @@ QmQwTPApETQdR94atkVvNYoJf9SSKymx1op75KLt3SmfTN files/community/master/governance
 Qmb1n97rc1RFQdWhumAVyFptch2SEQNSTsQfFUNo8THrCK files/community/master/governance/delegates/templates
 QmRnuJd3BWAkmQ1kAEVMoMwQRyEZJiaKAkoJaaDoV1VS5E files/community/master/governance/delegates
 QmUJArSUASZZqooGDJfP7jE8PH53qb8pHib7sQDpChXoff files/community/master/governance/polls/assets
-Qmah2hHJwwMpAZs62PYgp5Wc4iRakqjW3pcb4duReSdpDa files/community/master/governance/polls/meta
+QmQgWP14w57bCSnfEU4imc6crCADPzVdeXbVzrAZT27ytq files/community/master/governance/polls/meta
 QmZoCK5ofn9yoCXYaNhtzrJsrDcLfD2uzqXceKziQD364N files/community/master/governance/polls/templates/Archived - Not Updated
 QmWr15J8ogwbMSqfKZcUF9YZYtypKJNm8PvtALfJwMkKCk files/community/master/governance/polls/templates/Collateral Offboarding
 Qmed7BLsiTYFY8SF2Sn87U3gn6ZwQDgUMRQnwQD6A8vUhS files/community/master/governance/polls/templates/Collateral Onboarding
 QmeMPPinUn2EHSnyiqgSd1ufLsHPrY2h9eZFDcRqy6crrM files/community/master/governance/polls/templates/Endgame Specific
-QmRqtA5m1YVy8YXtnzjwcU4dksF5yjdVgf5FxPhPM1gTea files/community/master/governance/polls/templates/Generic
+QmS69pyrddrw5hMqETSCmQrfenBZ2dZJjLEUmRhMZ2NrGX files/community/master/governance/polls/templates/Generic
 QmV76VF1MKwt4KP1s5G2CWPn2WeZvNJjTy92yfSbH7wMV7 files/community/master/governance/polls/templates/MIPs
 QmTZCoNc87qutGUz8jbofSYxWM4hknzm9SoyJPsmrSuSJM files/community/master/governance/polls/templates/Misc
 QmfQr8pftpVRD4xcGemwXbKPqbfKXD46h9MTSS5jgmnKCX files/community/master/governance/polls/templates/Oracles
 QmR63B8qMiMuivWVyJn1zqmiWjDH4SLckMJPZ9zmrcDsSm files/community/master/governance/polls/templates/Risk Parameters
-QmQhrPt1u1L4BaUCaa29fJcpcpjr1nBDBUt26vESQF3ABT files/community/master/governance/polls/templates
-QmRBETnTpvjQwepSxdFgfwZHEytff5px6eVRLrL9AvgxCD files/community/master/governance/polls
+QmXbBRJgPoytpVhTQhSeBeBYEs9v7ScS1xAqF38LHyjVNX files/community/master/governance/polls/templates
+QmaCcV4CeecyWzFFFDhDhMfNv4Cw73xsKQfjKcbzw4iPZG files/community/master/governance/polls
 QmahMaKxWSTBrEfzw9tcZTA5HbmN3EnpcN6LgbBj3fgrhq files/community/master/governance/votes/active
 QmVN2G925W5xqsm8Yfemii5kVojgvSZ69UjV8yMs2uMTjo files/community/master/governance/votes/templates
 QmWEQReMjz5DSvqps4Hx9pGC7Y6GsFt8kp7R3RJj59JSaS files/community/master/governance/votes
-QmejsQE36Dkhsfhuaq67jx2dieRoMAji69TtmSBFmUZinN files/community/master/governance
-QmaYnF8529HDzFZ1sXx8vx7jsaRsrBpCh6Nsud1CYyvTz5 files/community/master
-QmXP2jgVjzKUsJWwBa8cSe7BPDs5uu8Qpsqw9kyxzGcgEp files/community
+QmQFoRZ4r5ibruHfPQC8D1CwF4oTDxG16A3puKV9S9MWhn files/community/master/governance
+QmdbXfcd8zmhhRAFbXY2x59ra9MKxRt426BzDutxxTSMRu files/community/master
+QmWwzX53JLpU7DugXP3dxCdfN5HqmEPiZV5Gdv8ZiuPjJv files/community
 QmfWjXCgBa39mNbPFa5k5rtyzLgTCmKbNpzXH7kHcrUVhG files/protocol-metadata/main
 QmPQH1Dj9bnNtpFXf1UQYrkMwTnpEiUtMTQAHyYTYRyN9z files/protocol-metadata
-QmNoQYiL3w8T4SY7cvz78HGZuKkSEMAVn4JfUhji39ibru files
+QmVfKogFWfiHUezYCkjUDCDuoqJwqwWq1u4wviKzGjCsk2 files
