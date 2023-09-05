@@ -4057,5 +4057,25 @@
   "1033": [
     "medium-impact",
     "real-world-assets"
+  ],
+  "1038": [
+    "high-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
+  ],
+  "1039": [
+    "medium-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1040": [
+    "medium-impact",
+    "risk-parameter",
+    "spark"
+  ],
+  "1041": [
+    "high-impact",
+    "real-world-assets"
   ]
 }
