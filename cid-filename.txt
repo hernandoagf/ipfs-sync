@@ -1,4 +1,4 @@
-Last sync: Wed Sep 13 01:08:52 UTC 2023
+Last sync: Fri Sep 15 01:08:54 UTC 2023
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -1531,7 +1531,7 @@ Qme8L6c3QBjYdmsjZ6Gte6od7bjaiNrSWuCLJ397wMQHfN files/community/master/governance
 QmS68ZjuPCwNMz1JFhFdW6tKzqcMfPoam2HRLripfkPbKy files/community/master/governance/votes/Executive vote - October 8, 2021.md
 QmTfLg12qdDpuRtzgtRwLnbpBKM4LcLdELq3f3DJ57iTKd files/community/master/governance/votes/Executive vote - September 11, 2020.md
 QmSX4Juc68hfxUhXidc5vGBz7jD6yg1wR78mJbkcxyzt2y files/community/master/governance/votes/Executive vote - September 13, 2019.md
-QmYXR24N8GwuKwupZMTCu9WeCKb5J4BNUbPZLezGNeRNFd files/community/master/governance/votes/Executive vote - September 13, 2023.md
+QmRUwWzmexMTZjfiopyVhDASkY2xfVSW7dYfiEpKfaoHF1 files/community/master/governance/votes/Executive vote - September 13, 2023.md
 QmcLipaLMPVXDa3AJD9RyMgmTwqQjmePKwHiFrroerd4Q6 files/community/master/governance/votes/Executive vote - September 14, 2020.md
 QmXg3nx4Zym5RRdTZRyhieBg1zUzTmyvYV6mkBxatyqcuE files/community/master/governance/votes/Executive vote - September 14, 2022.md
 QmPvgRqPpYVuvqBBRh6PnRyVZPPoaRMpb4VQqjMgvRPza9 files/community/master/governance/votes/Executive vote - September 17, 2021.md
@@ -1545,7 +1545,7 @@ QmPx6yu9gzbVTcLfpn3RqNABCj2s23kByt6hAgYj25nJjn files/community/master/governance
 QmepNVc5NvfDB73mRJaQw3uJJohjABMEACqQCrq9uMqP3m files/community/master/governance/votes/Executive vote - September 4, 2020.md
 QmUUn2iManGFTFNRHCGpA2NtW7drzv2Qgtz6igvUQA5zsm files/community/master/governance/votes/Executive vote - September 6, 2019.md
 QmU3GrnypyB8DsFHbhtZt9TCYbjrL5HMYRHxpXS5cBjjQe files/community/master/governance/votes/Executive vote - September 7, 2022.md
-QmbdvDnK5ERjhTXnBgduYhJqo5kYM5TF9hPgRXuXce44P3 files/community/master/governance/votes/active/proposals.json
+QmcWif1ArH2VWP5NEiM3rvKx2VwW211L4xVevB9JD8hFSy files/community/master/governance/votes/active/proposals.json
 QmSdNicbzHiPaTFubJbssY7WXyxU5Dw4BLnh6jMFm3JaHV files/community/master/governance/votes/templates/Executive vote - $date_MONTH_DD,_YYYY.md
 QmaUrEtcr7GqDyeZw3kBCM9H9aWeBMXpEwGfRr8QFsCSti files/community/master/governance/votes/templates/Helpful Links.md
 QmX75ZvHTuUDfzCNsAKbLVEwvzDjRd75V2QnZfD2bJSL1x files/protocol-metadata/main/collateral-info.yaml
@@ -1674,12 +1674,12 @@ QmfQr8pftpVRD4xcGemwXbKPqbfKXD46h9MTSS5jgmnKCX files/community/master/governance
 QmR63B8qMiMuivWVyJn1zqmiWjDH4SLckMJPZ9zmrcDsSm files/community/master/governance/polls/templates/Risk Parameters
 QmXbBRJgPoytpVhTQhSeBeBYEs9v7ScS1xAqF38LHyjVNX files/community/master/governance/polls/templates
 QmYkhSbMaGkr7AwYqAzRD6nBuLXNJiw4GTiW6xJVKbgKUr files/community/master/governance/polls
-QmfQC2LqCrkuQ1eMoo5yCEQcbjcWNNLQPwRLtpsarwvxjX files/community/master/governance/votes/active
+Qmej4ZZfkfKqxrPSecuJtJ9XQDF9zXzZ6gT54Ua1eCyT1N files/community/master/governance/votes/active
 QmVN2G925W5xqsm8Yfemii5kVojgvSZ69UjV8yMs2uMTjo files/community/master/governance/votes/templates
-QmNqWmGqXT7QszP8PhzcRkXk84Rm71HvA2AwroZ6gMnbzo files/community/master/governance/votes
-QmdjxXuarDtqQYBRJwTFZNBv5XLxT9xajaMZgvinwMqbCX files/community/master/governance
-QmVtWE2EFHVpSkUzoToP4uhtBB6R1XugzDUnLetbPMsw2R files/community/master
-QmXqR9sEzJ2AFJgE6EExxLpyjVVDmro8amKTLk6XWb9dAS files/community
+QmZXRw5cVsdUwzSTfawUtd5UkQNB9RhHpwkdNydRxCqdEq files/community/master/governance/votes
+QmX8a98QHwwrdbHu6rt4QdDnLFXZnt1b8oEy7QkMPzjfbL files/community/master/governance
+QmUWJoCSpCcNTfMB7UCAVLt1PhbcG7QqTsCQFp6AoydN2b files/community/master
+QmbQmm4b4hLC4Lw83o3VgsR6HTtK6pUZ5LJ5YMokioE3Xe files/community
 QmfWjXCgBa39mNbPFa5k5rtyzLgTCmKbNpzXH7kHcrUVhG files/protocol-metadata/main
 QmPQH1Dj9bnNtpFXf1UQYrkMwTnpEiUtMTQAHyYTYRyN9z files/protocol-metadata
-QmcAEStYAgGL3QeTwbdMedmhz5mN5pZxf5gCToSTF1xqQV files
+QmeTQsMAZKKNTxo9wwjLDQ5NHa6kFvTWyWXMTxC5753Qww files
