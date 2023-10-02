@@ -1,4 +1,4 @@
-Last sync: Sat Sep 30 01:07:12 UTC 2023
+Last sync: Mon Oct  2 01:09:42 UTC 2023
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -621,6 +621,7 @@ QmRAypDvKNph3JVV67m31qaXvNgYe9RV1w3K7vnh7re4G8 files/community/master/governance
 QmNNmokrPufafCJDVZLWALjha5omr9D1YTVMwnzK2byz5H files/community/master/governance/polls/Increase ETH-A Target Available Debt - March 1, 2021.md
 QmbMR8PUfvqZWyiXbGgGVS5fv9wDakxMehjW6fxgbTZZ44 files/community/master/governance/polls/Increase Spark Protocol wstETH Supply Cap - August 21, 2023.md
 QmPEn941iw8K8yZpWY84HXAi43CeUkdxWqh9GnWKj2PUN3 files/community/master/governance/polls/Increase Surplus Auction Buffer - October 19, 2020.md
+QmQpNDXGY5PEBmPzZLQUgV5Wx1eon6Qz8pSjbfr41RXRzW files/community/master/governance/polls/Increase rETH Supply Cap to 60k - October 2, 2023.md
 QmV8qPPmx58wSryBPMT6CQ92kPY76EVDqhUsq2wNX9P7RA files/community/master/governance/polls/Increase the Dust Parameter for ETH-B Vault Type - March 22, 2021.md
 QmQejeVXN6kS5hESoEfuBsnkbvhyRnnCVEphA2pZxpFPhV files/community/master/governance/polls/Increase the Dust Parameter for Most Vault Types - March 15, 2021.md
 QmUYLPcrQr2gXBfbco27pPt6ZVVP9beb4xJZYchbW4Rocs files/community/master/governance/polls/Increase the Dust Parameter for Most Vault Types - November 29, 2021.md
@@ -892,6 +893,7 @@ QmXcdMS3B74NiMmhRXQG7a7gkW5SeXWz5Mhjhk3Myu19wo files/community/master/governance
 QmNYvCM7deyaMFDvKZtRSD5fxc9ZH94TMN7kUmEncNu4sG files/community/master/governance/polls/New Silver (RWA002-A) Restructuring and Parameter Changes - July 24, 2023.md
 QmU41X9vxWCVBazPB7Rg6DrbZ9Evxtst1MSM1Z8jCYjgDk files/community/master/governance/polls/Nexo Institutional Vaults Onboarding - October 11, 2021.md
 QmQXhS3Z1DQ5kdnqzvHZzjCxYuTNo6AozMPEVvq8VZ3U4b files/community/master/governance/polls/Non-Scope Defined Parameter Changes - 29 May, 2023.md
+QmNty2pa3R7mcqEcTuuKxLH2Ty4nVnCGBNEWYG7xN6exia files/community/master/governance/polls/Non-Scope Defined Parameter Changes - WBTC DC-IAM Changes - October 2, 2023.md
 QmPxbrBZqWmPmTkUFDj8yuynmMPE3Ho2qNta72ARrbenoD files/community/master/governance/polls/Non-Scope Defined Parameter Changes - wstETH-B DC-IAM Changes - August 7, 2023.md
 QmPdvqZgQGjiVrK2ybYY1q88GPNmmmUd6k1axDK8sg2UTw files/community/master/governance/polls/Offboard AAVE-A - November 15, 2021.md
 QmcwtUauzY9WL2nBrvMYjFLLs67Kxi9jJitQ1oPn8yjW9E files/community/master/governance/polls/Offboard BAL-A - November 15, 2021.md
@@ -918,6 +920,8 @@ QmXdGdxSMh6Uh4ZoPFQis6vsWaoRzWYzmdKBDF4EVQnuBp files/community/master/governance
 QmRxNdG7KaeZM4WDhin3jhjo7ZyChTi9Mm6eP2st8uHSNd files/community/master/governance/polls/Onboard Phoenix Labs as an Incubating Ecosystem Actor - March 27, 2023.md
 QmebPdpaEtHfTiZF4JJyC7u1b1MYdrzoJdS6CGd4B44NpG files/community/master/governance/polls/Onboard PullUp as an Incubating Ecosystem Actor - April 24, 2023.md
 Qmd5R3JzDKCfx8yHmUMz4Tdqdo4SLRutJXq1NNh8S7y9Cv files/community/master/governance/polls/Onboard Sidestream as an Incubating Ecosystem Actor - March 27, 2023.md
+QmUqRvBm5yzpzGEYtaA2KB1v2WUKSyqasUmGBn4Up9ekF7 files/community/master/governance/polls/Onboard USDC to SparkLend Ethereum and Activate USD eMode for USDC and sDAI Markets.md
+QmX95EAiQJoEAmDHcK2kd7qLMtUUHoDrcYqAmxU73Jm55e files/community/master/governance/polls/Onboard USDT to SparkLend Ethereum and Activate USD eMode.md
 QmV9MR8B6MRMVLcVuZjfu7ed2ir8XFCwPQ22cuStx8STFv files/community/master/governance/polls/Onboard Viridian Protector Advisory Company as an Incubating Ecosystem Actor - March 27, 2023.md
 QmVo7VXVzVYaCdtfoaokZjaGzvfpidPM52rK9NFwBxDXv6 files/community/master/governance/polls/Onboard dewiz as an Incubating Ecosystem Actor - March 27, 2023.md
 QmeEV7ph7DuTABWa1EMgSL1yVnK38oohmHAvJ43Tzbi9aN files/community/master/governance/polls/Onboard rETH to Spark Protocol - May 29, 2023.md
@@ -1683,13 +1687,13 @@ QmTZCoNc87qutGUz8jbofSYxWM4hknzm9SoyJPsmrSuSJM files/community/master/governance
 QmfQr8pftpVRD4xcGemwXbKPqbfKXD46h9MTSS5jgmnKCX files/community/master/governance/polls/templates/Oracles
 QmR63B8qMiMuivWVyJn1zqmiWjDH4SLckMJPZ9zmrcDsSm files/community/master/governance/polls/templates/Risk Parameters
 QmNPod3TWMrtJXCPqWUe3eCUG7chuvpcrgdqqiAxkoB9zt files/community/master/governance/polls/templates
-QmPXiGdXejvnLfupfackh2SNLSEWLzAepNQFrEngyc38Mw files/community/master/governance/polls
+QmR4x3u8LqB1VTnii3sY7geZ5WWGDvMQP5hM2j5mYeEQrj files/community/master/governance/polls
 QmQyVfN7MAQUQehHsjXocmXsCo4h4fQChzviBXJp3Uciy3 files/community/master/governance/votes/active
 QmVN2G925W5xqsm8Yfemii5kVojgvSZ69UjV8yMs2uMTjo files/community/master/governance/votes/templates
 QmPEJ2j33TL58x5TYhvcF4YzAdyHeLhvakBmo4eu5qG9Dq files/community/master/governance/votes
-QmZ3GxQZxSTkcTpAAJzUDPyD3UCZugaradLXEBYPSZPnRC files/community/master/governance
-QmU6HoADctz9eNx7UR8eV9QjZhpShPgAZW1i92K4QkV1dR files/community/master
-QmdU56R5mpmV2g3Jrhiz1RpY4zy5zqKF5ccXqHaFZLSqiW files/community
+QmY4Rsr9QnLbiQtougjouxdwbeZXSyiaLVET2fpyNHn9yQ files/community/master/governance
+QmZp2q4VBKiyENL4jRArErwkWChrYPrL25DUqaBuMyLeJ7 files/community/master
+QmXB2uoAZvM7cyrtPb4cpkWGKd6dg5QeqqVbyn1xH66anF files/community
 QmfWjXCgBa39mNbPFa5k5rtyzLgTCmKbNpzXH7kHcrUVhG files/protocol-metadata/main
 QmPQH1Dj9bnNtpFXf1UQYrkMwTnpEiUtMTQAHyYTYRyN9z files/protocol-metadata
-QmZCvV7g6bwDBofsacAxYSyP79rx5TT8VPGcZhcyYQBfDQ files
+QmaLyh2ccTrj9h8XExPEy4863V5nVq38uJFQ77E1stu9iV files
