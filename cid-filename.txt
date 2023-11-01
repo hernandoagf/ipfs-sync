@@ -1,4 +1,4 @@
-Last sync: Wed Oct 18 01:09:28 UTC 2023
+Last sync: Wed Nov  1 01:13:35 UTC 2023
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -1516,6 +1516,7 @@ QmNqM7S9W6ES2yZ4Wg7dB5MR2FoGLmz4qYAagNNzVLSYv3 files/community/master/governance
 QmR78WcL81ik3M9cbdPBV848QqyzPQRsZufDbLpj9wb2Zc files/community/master/governance/votes/Executive vote - May 3, 2019.md
 QmVkYrLUphZ9YuGdMBE1SAi35XzKaSc5zwja8ZtmvJCbgy files/community/master/governance/votes/Executive vote - May 31, 2019.md
 QmRfmFX9aK6Rfcksgt6TwizgA89vRi4UbQqwgP5cQtycWs files/community/master/governance/votes/Executive vote - May 7, 2021.md
+QmeQLYVty7wXyNERyViLtb6MAqPuUdkjxPgE7vfP9Yj8hb files/community/master/governance/votes/Executive vote - November 1, 2023.md
 QmXWspzstnTbPfzNx4VkCd8BtT21V5R8AW86niNWoRWc8y files/community/master/governance/votes/Executive vote - November 12, 2022.md
 QmQ9U2BBjUjhUzKkPpvTCNFPR2kuCYsV8putN6qKwJM8Kp files/community/master/governance/votes/Executive vote - November 13, 2020.md
 Qmd27ZRg95uTYCHrpDfoFXUpAogYtL16b4NsSMPJeaayf4 files/community/master/governance/votes/Executive vote - November 16, 2022.md
@@ -1696,10 +1697,10 @@ QmNPod3TWMrtJXCPqWUe3eCUG7chuvpcrgdqqiAxkoB9zt files/community/master/governance
 QmPciSUTNDGNpuJEFaZQjhMtqUPV6srxfzhdVvEccbrEdV files/community/master/governance/polls
 QmPv5WNrB5XkhcTvk779LwKKd84hGtPwMhkbVvGSsZkT2x files/community/master/governance/votes/active
 QmVN2G925W5xqsm8Yfemii5kVojgvSZ69UjV8yMs2uMTjo files/community/master/governance/votes/templates
-QmUEy1qFfurwajwWdgFkSCniTyJjEXVCzsq4syNuJhitKe files/community/master/governance/votes
-Qmacgjun8SiAt2NCTdH9EBBrYUxb33F9NovLDdHwMKGqvq files/community/master/governance
-QmdtkAekpYKNL41qii6cjnJDP7kx9F6pibqHiD5AvcjpyR files/community/master
-QmXa7krsJgEpDxbeh5MwW8zYBoHc2tEBJNGsgAfS8n6tnC files/community
+QmNNMCf1BA5525uV1nik1EhqyFVwC2ygv9Uu4f6GBKFDpQ files/community/master/governance/votes
+QmfTcxB3yKGB3YF9dHYUAbV3NSwwoumBUZmS9VayYjoZdg files/community/master/governance
+QmPnTzveWBMUmY6hHfZM3cyJuVYyHSZTPmngxh86PGxYyJ files/community/master
+QmdvpjE9PyMj3wjc3pqTBQkq7kzJh5iKACTDqL3L6K5UuC files/community
 QmfWjXCgBa39mNbPFa5k5rtyzLgTCmKbNpzXH7kHcrUVhG files/protocol-metadata/main
 QmPQH1Dj9bnNtpFXf1UQYrkMwTnpEiUtMTQAHyYTYRyN9z files/protocol-metadata
-QmcMerWnWRby8iomL8qTfNifackeXLnzmYyrAbtHCMrhfH files
+QmTMyVqMzExnn6gpts1211EJo9ywDkN5eTXZFj4ForiZKT files
