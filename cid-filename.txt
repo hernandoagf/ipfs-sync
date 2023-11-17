@@ -1,4 +1,4 @@
-Last sync: Thu Nov 16 01:13:07 UTC 2023
+Last sync: Fri Nov 17 01:12:47 UTC 2023
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -1415,7 +1415,7 @@ QmV4iP4gdg2YR9nKiCsh1gkxZizuvpBipMVDgUreyAh3h8 files/community/master/governance
 QmamyiaXFxo7Cp54b8bCbnDK6qHt3vevyBrVoKPiwuRKqF files/community/master/governance/votes/Executive Vote - March 11, 2022.md
 QmTtjSh2SK4XgBNGqFEDPJphSBEh7zRYBvkFvht23HpMut files/community/master/governance/votes/Executive Vote - May 17, 2023.md
 QmaKCvpXEho8iN2xYJ6SRGzDUTtGKfxcygLWJnBz3pNkB8 files/community/master/governance/votes/Executive Vote - November 12, 2021.md
-QmXBnYj6DEqwRmxH3vZLh1bDeU862tusCdogRtyeS364N6 files/community/master/governance/votes/Executive Vote - November 15, 2023.md
+Qme5zfEXeVqT25KNRRcHDaFBzF2bwzr4etzq3ZfEPNaBSu files/community/master/governance/votes/Executive Vote - November 15, 2023.md
 QmcqyDUiMitErH1C7K2bAK8z8AdVDLoUJJoPzG5xCNQuAp files/community/master/governance/votes/Executive Vote - October 11, 2023.md
 QmPAvjJnuy1N9bmS5oNeH7CEYkJo9X8FaPsdeXivSMzArb files/community/master/governance/votes/Executive Vote - September 28, 2022.md
 QmUpHaFWhjmU2pSSBghsYoGEVmwX2Ft4t7LVEpx9vrFEuL files/community/master/governance/votes/Executive vote - April 1, 2022.md
@@ -1586,7 +1586,7 @@ QmPx6yu9gzbVTcLfpn3RqNABCj2s23kByt6hAgYj25nJjn files/community/master/governance
 QmepNVc5NvfDB73mRJaQw3uJJohjABMEACqQCrq9uMqP3m files/community/master/governance/votes/Executive vote - September 4, 2020.md
 QmUUn2iManGFTFNRHCGpA2NtW7drzv2Qgtz6igvUQA5zsm files/community/master/governance/votes/Executive vote - September 6, 2019.md
 QmU3GrnypyB8DsFHbhtZt9TCYbjrL5HMYRHxpXS5cBjjQe files/community/master/governance/votes/Executive vote - September 7, 2022.md
-QmZ52kBpQPtwyZQZZLC1LBUK8Nj9H4V7F672qNZkgSvwDo files/community/master/governance/votes/active/proposals.json
+QmeTujTohpmtC273BwHP82XbeeB9dA4gsZrxKmM7jqpZPn files/community/master/governance/votes/active/proposals.json
 QmSdNicbzHiPaTFubJbssY7WXyxU5Dw4BLnh6jMFm3JaHV files/community/master/governance/votes/templates/Executive vote - $date_MONTH_DD,_YYYY.md
 QmaUrEtcr7GqDyeZw3kBCM9H9aWeBMXpEwGfRr8QFsCSti files/community/master/governance/votes/templates/Helpful Links.md
 QmX75ZvHTuUDfzCNsAKbLVEwvzDjRd75V2QnZfD2bJSL1x files/protocol-metadata/main/collateral-info.yaml
@@ -1723,12 +1723,12 @@ QmfQr8pftpVRD4xcGemwXbKPqbfKXD46h9MTSS5jgmnKCX files/community/master/governance
 QmR63B8qMiMuivWVyJn1zqmiWjDH4SLckMJPZ9zmrcDsSm files/community/master/governance/polls/templates/Risk Parameters
 QmNPod3TWMrtJXCPqWUe3eCUG7chuvpcrgdqqiAxkoB9zt files/community/master/governance/polls/templates
 QmWy18Ku8yvkAr4Fw4KdrxTQmiMSVaLdPyt7om6UhzukFN files/community/master/governance/polls
-QmXYZuyrHRSxF8Dit8ociRVxcfrNB9zsHCHUtCXdMreivC files/community/master/governance/votes/active
+Qmb9HAcWvrnqxZyeYUAhpVgn4KNarbcvJBhPcrJ5ftWmx8 files/community/master/governance/votes/active
 QmVN2G925W5xqsm8Yfemii5kVojgvSZ69UjV8yMs2uMTjo files/community/master/governance/votes/templates
-QmWthkpakzMUfYpyPqkTDTwxLsTs5K5WJxwos3sQQszoco files/community/master/governance/votes
-QmWavUhiMwyJHN5DHBU2teGCxdgbDzRsTXiRPd9QDrMuJu files/community/master/governance
-QmdgNvfVAWDfD77Atk7v6T84KS4Kp77EdnCdj7nr6g3JCn files/community/master
-QmXJ4gBak8Gctj5gTtBRvmovHXcEnEBHP1cFniNN4qhVPJ files/community
+QmakQt4jJ9qkwYWTuM6AD8ByR7mJpctqfRERc8ZMYUWfw8 files/community/master/governance/votes
+QmTqpoBmC5icaVTRtsuDiQuogaCddHf2HzVP6qNQavxJfe files/community/master/governance
+QmR5BZZfuu4HvGy73rMkFKqPRi3gsCCgyTEXLU7cbfg2Y1 files/community/master
+Qmbnzy9xdpjpWgVzjT84miy7ZGs6Pm2tfC1HXFrTdAqK8W files/community
 QmfWjXCgBa39mNbPFa5k5rtyzLgTCmKbNpzXH7kHcrUVhG files/protocol-metadata/main
 QmPQH1Dj9bnNtpFXf1UQYrkMwTnpEiUtMTQAHyYTYRyN9z files/protocol-metadata
-QmdpwrCEZqyTqToFjnfPafhMQsBiPKMZLdG8UL5QBKAvDV files
+QmPurTNpvmiiH3EpZbPMiGtUDX5MKTCKTTatVDrsB9559u files
