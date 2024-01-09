@@ -1,4 +1,4 @@
-Last sync: Thu Nov 30 01:12:38 UTC 2023
+Last sync: Tue Jan  9 00:20:37 UTC 2024
 
 Qmck75L6Cz2G9haDrTATcGdxXjYEiUdFjK95pufrbTRGn6 files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/avatar.jpeg
 QmdVnsjQ8QGpLZ5zkTuCGrL3rL8ceHjS9bYmsVJHTZAd9z files/community/master/governance/delegates/0x04fa224217a37E216698EDcB404380B52E4f7454/metrics.md
@@ -1116,6 +1116,7 @@ QmSovaxnteFp9hc9XwQVu2EcWktw2LohdEvDJE8cbvwvRn files/community/master/governance
 QmNjTZZm9gmMS3uHGQ33UDoJLENg1hcw65wmnMJwtyxBUP files/community/master/governance/polls/Ratification Poll - MIP102c2-SP17 - November 13, 2023.md
 QmQ1RtdEbYYnHBJtKufeHorvTJ27pUUrR9GXUVGsMYgT8p files/community/master/governance/polls/Ratification Poll - MIP102c2-SP18 - November 13, 2023.md
 QmUHhx314awvNWZZabGXBVb6t3m2BvdwihL5HTPTMnaKEk files/community/master/governance/polls/Ratification Poll - MIP102c2-SP20 - November 13, 2023.md
+QmQC7b3B15UFeFzzRxZkaChf1zZdKsfumpQTuEaminTNbs files/community/master/governance/polls/Ratification Poll - MIP102c2-SP21 - January 8, 2024.md
 QmdNoZmZeEkVVqt4Svzk84seeBTg6QHD4meznq5xfQxBde files/community/master/governance/polls/Ratification Poll - MIP102c2-SP4 - September 11, 2023.md
 QmXVjbWGMQdArJYpG6iSFwgJrV8qDPvVrBDwjrmZZood21 files/community/master/governance/polls/Ratification Poll - MIP40 Budget Process Amendment (MIP4c2-SP19) - May 9, 2022.md
 QmPPGf4qcSDAwHBpNPepEHsGkQdGpi13tUixvTbMShteYu files/community/master/governance/polls/Ratification Poll - MIP55c3-SP11 - December 12, 2022.md
@@ -1299,9 +1300,15 @@ QmTRJNNHNv2GZtrsA9cFJdstxZyGTR691n7Za3tkYNEJzL files/community/master/governance
 QmULJKwKjJujdkUAFSzgVeiEh1eJE378LwMnCrLxpUY66c files/community/master/governance/polls/Spark Protocol ETH Market Parameter Changes - August 21, 2023.md
 QmVgbGKTxgsNR2gZxw53nBbNaZH4LvVTxqV8Jh3VSfmaDK files/community/master/governance/polls/Spark Protocol WETH and DAI Market Parameter Changes - July 24, 2023.md
 QmQjKpbUzC1MH1wg91wrkCLdGqubUeFvPapoEmkGdkfc8o files/community/master/governance/polls/SparkLend Ethereum & Gnosis Chain - Adjust ETH Market Interest Rate Models - November 6, 2023.md
+QmRKkMnxvCharwg369qY7iiz16f1KEk4tF5s7utpYsRuNy files/community/master/governance/polls/SparkLend Ethereum - Activate Lido Rewards Program - January 08, 2024.md
+QmRdew4b1EGix8GC5auh78Cx8jvw1epTzkGX13foiFCDRR files/community/master/governance/polls/SparkLend Ethereum - Activate SparkLend Freezer Mom - January 08, 2024.md
+QmXtvu324FeCsNfiVTGjcNmd5RASWYPDAjzwbszDiCiPLY files/community/master/governance/polls/SparkLend Ethereum - Freeze GNO and set Loan-to-Value to Zero Percent - January 08, 2024.md
+QmdQSuAc96mKBuLKRAiWFJW33HNPPVm4hfJYrW8ZQM73eq files/community/master/governance/polls/SparkLend Ethereum - Increase Spark Protocol D3M Maximum Debt Ceiling to 1.2B DAI.md
 QmRG9qUpty2ykCpwV9UM9dnWYpU2RGLfStTn67f519dK36 files/community/master/governance/polls/SparkLend Ethereum - Increase rETH & wstETH Supply Caps  - November 6, 2023.md
 QmfT6P9fD2Wm4vg88sKgckr5GuewY14bWKNjuZsaRTzaGu files/community/master/governance/polls/SparkLend Ethereum - Reactivate WBTC and Optimize Parameters for Current Market Conditions - November 6, 2023.md
+QmdVy1UkExSrx8TxxRoYX34XFJuQWXfewTNfcz4ySQuCjj files/community/master/governance/polls/SparkLend Ethereum - Replace Dai oracle with one that is hardcoded to 1 USD - January 8, 2024.md.md
 QmZwRgr5UZizyGRXDH4KZ8x3pY4hWUzW19Vh6oHLdg28me files/community/master/governance/polls/SparkLend Ethereum - Set DAI Market Maximum Loan-to-Value to Zero Percent - November 6, 2023.md
+QmeWioX1pmLxiw4F1jJUd4bXA38hTXejQue5xJ5ousMEDY files/community/master/governance/polls/SparkLend Ethereum - Update the wstETH oracle to assume a 1 to 1 stETH to ETH peg - January 08, 2024.md
 QmaBLbxPSfXS12moBedBrJhtT3L5PbfVuw2qmpwB9FHGfA files/community/master/governance/polls/SparkLend Gnosis Chain - Increase wstETH Supply Cap to 10,000 wstETH  - November 6, 2023.md
 QmWwXK4L5FbZLj3VRz9LA3dKppXTTyza7GQsLjksBaTGub files/community/master/governance/polls/Stability Fee Adjustment (August 5 2019).md
 QmSpdHvnXNucmdtpw8g9F9t6bsRBrUzgRoZb66EnvjB2hL files/community/master/governance/polls/Stability Fee Adjustment - August 12, 2019.md
@@ -1353,9 +1360,9 @@ QmUM7GdjiBc7n8tH3DhoJMp7653NnfvL4X3GPV6NXMeCpa files/community/master/governance
 QmXKPQAWZrM6y443GtWgeKjM13qn8PZWN9RiMKz5N7jB46 files/community/master/governance/polls/assets/DeFi Public Feed Proposal.png
 Qme9Wreo89JYNwoEv1n3Kihuh2p6MtC95A7wMChzptuBEj files/community/master/governance/polls/assets/Oracles Incentives Restructuring.jpeg
 QmVNqUuJQHCyTk3ch3VBjdjTQVuXy1VaqoG7pJLXGHk7bc files/community/master/governance/polls/meta/categories.json
-QmcjQoyZmFZhGzTE4LLYXqQnRRDuBcL4zPPkWtR7xxYjpc files/community/master/governance/polls/meta/hashed-polls.json
-QmRfKqsGcmVbYopo3dHYikEy8RFFfdemSpkFBJh5B61q3S files/community/master/governance/polls/meta/poll-tags.json
-QmVFLxYq9tFTkMxevdwKHwp6nstuSUTpPQ8upVzBaPxwYm files/community/master/governance/polls/meta/polls.json
+QmedSgX8hB6tt6mTJweetNZcUpdWtu66mWx1HDbwa4YQ2L files/community/master/governance/polls/meta/hashed-polls.json
+QmS6jDHB1Termq9BWVw6FryUmGGG5fe8xxsCqEGfpSoMGt files/community/master/governance/polls/meta/poll-tags.json
+Qmd4WYzNwC54MbMtkz73SPSD3oSDRtEtvE4mKcY2zbrZge files/community/master/governance/polls/meta/polls.json
 QmQWrKj7z5GWho5y5MRKfySCdVcxb81YNxCA4PpdQMTnAQ files/community/master/governance/polls/meta/retroactive-poll-categorization.json
 QmTbm69Ukd1udrUVpzjbWyUUKHfdxFUuYYyw3tRfkxExpb files/community/master/governance/polls/meta/tags.json
 QmP4Jc35m9KQpF5nFxCCbUqJHmJrMEwtiFiXr3P8tXiDqB files/community/master/governance/polls/templates/Archived - Not Updated/Base Rate Adjustment - $date_MONTH_DD,_YYYY.md
@@ -1712,7 +1719,7 @@ QmQwTPApETQdR94atkVvNYoJf9SSKymx1op75KLt3SmfTN files/community/master/governance
 Qmb1n97rc1RFQdWhumAVyFptch2SEQNSTsQfFUNo8THrCK files/community/master/governance/delegates/templates
 QmfXWYCGf2zstQQDw7Pr7Ygj2fXHysFKBEDfTqBQ4FQtwZ files/community/master/governance/delegates
 QmUJArSUASZZqooGDJfP7jE8PH53qb8pHib7sQDpChXoff files/community/master/governance/polls/assets
-Qme8c7VDRYvTkfqKJizoAKJxgL1MJtfMnPu6ydJz6Ag9Pe files/community/master/governance/polls/meta
+QmWEuzaPYSaNqJdojBn6Zu6Gvve5fMSZ6z66k7Qr4Tot2s files/community/master/governance/polls/meta
 QmZoCK5ofn9yoCXYaNhtzrJsrDcLfD2uzqXceKziQD364N files/community/master/governance/polls/templates/Archived - Not Updated
 QmWr15J8ogwbMSqfKZcUF9YZYtypKJNm8PvtALfJwMkKCk files/community/master/governance/polls/templates/Collateral Offboarding
 Qmed7BLsiTYFY8SF2Sn87U3gn6ZwQDgUMRQnwQD6A8vUhS files/community/master/governance/polls/templates/Collateral Onboarding
@@ -1723,13 +1730,13 @@ QmTZCoNc87qutGUz8jbofSYxWM4hknzm9SoyJPsmrSuSJM files/community/master/governance
 QmfQr8pftpVRD4xcGemwXbKPqbfKXD46h9MTSS5jgmnKCX files/community/master/governance/polls/templates/Oracles
 QmR63B8qMiMuivWVyJn1zqmiWjDH4SLckMJPZ9zmrcDsSm files/community/master/governance/polls/templates/Risk Parameters
 QmNPod3TWMrtJXCPqWUe3eCUG7chuvpcrgdqqiAxkoB9zt files/community/master/governance/polls/templates
-QmWy18Ku8yvkAr4Fw4KdrxTQmiMSVaLdPyt7om6UhzukFN files/community/master/governance/polls
+QmUPoJVbHKJahf3rVUCnR8BBDtm5oq9281jKSaoy4t92Vn files/community/master/governance/polls
 QmYnBTs8KhgsUJaAH6ZAbpeK9SBvPGz7Xruvq7ahA5EP4H files/community/master/governance/votes/active
 QmVN2G925W5xqsm8Yfemii5kVojgvSZ69UjV8yMs2uMTjo files/community/master/governance/votes/templates
 QmdmeW33AkGrPM9gPFHvcvCzw7tdJJzBmxaaFfh6PiXsmn files/community/master/governance/votes
-QmTbSbNAdJYUcZxvxTSv1xjAkzTLGNyNxttCB1tGrUp6jo files/community/master/governance
-QmSwipLqMh7gQGftZfLWmEDm3ghYw7WADPnqEhysVtxeWf files/community/master
-QmRDmSMAFx249b88aeyqnvRZfCLxoHVHfrMGRVvfafDcgc files/community
+QmT1XnqBnyDPyUbNBAKXXUsh4GpAtV6Aysa4j15qNASHns files/community/master/governance
+QmYLz3NS8u7A7GVSSkRB3JL2PFMwW9q3GHMvRHJ2qtdViT files/community/master
+QmYJkTZLDCyW7DrTkF2hfkozPm2kK9hwEnHT712vYQxrm5 files/community
 QmfWjXCgBa39mNbPFa5k5rtyzLgTCmKbNpzXH7kHcrUVhG files/protocol-metadata/main
 QmPQH1Dj9bnNtpFXf1UQYrkMwTnpEiUtMTQAHyYTYRyN9z files/protocol-metadata
-QmXZrPcZfNch672zGxnvpHzNFYaMGTnnEFyovWSN6uEzjK files
+QmQTXB8Ydfp9rTFNCvnXNxpqAGs2zs6zBfgFY3ejXspEEL files
